@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "MENU_PJ_TEMP",
+	"idle_anim": "MENU_PJ_TEMP",
+	"position": [
+		51,
+		120
+	],
+	"scale": 0.65,
+	"image": "MENU_PJ_TEMP"
+}

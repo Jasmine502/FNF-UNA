@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PJ_assets.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PJ MISS DOWN0000" x="0" y="0" width="247" height="500"/>
+	<SubTexture name="PJ MISS DOWN0001" x="0" y="0" width="247" height="500"/>
+	<SubTexture name="PJ MISS LEFT0000" x="247" y="0" width="251" height="530"/>
+	<SubTexture name="PJ MISS LEFT0001" x="247" y="0" width="251" height="530"/>
+	<SubTexture name="PJ MISS RIGHT0000" x="498" y="0" width="248" height="532"/>
+	<SubTexture name="PJ MISS RIGHT0001" x="498" y="0" width="248" height="532"/>
+	<SubTexture name="PJ MISS UP0000" x="746" y="0" width="302" height="559"/>
+	<SubTexture name="PJ MISS UP0001" x="746" y="0" width="302" height="559"/>
+	<SubTexture name="PJ_DEATH0000" x="1048" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0001" x="1478" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0002" x="1908" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0003" x="2338" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0004" x="2768" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0005" x="3198" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0006" x="3628" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0007" x="4058" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0008" x="4488" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0009" x="4918" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0010" x="5348" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0011" x="5778" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0012" x="6208" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0013" x="2768" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0014" x="6638" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0015" x="7068" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0016" x="7498" y="0" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0017" x="0" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0018" x="430" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0019" x="860" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0020" x="1290" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0021" x="1720" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0022" x="2150" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0023" x="2580" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0024" x="3010" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0025" x="3440" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0026" x="3010" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0027" x="1720" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0028" x="3870" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0029" x="4300" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0030" x="4730" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0031" x="5160" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0032" x="5590" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0033" x="6020" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0034" x="6450" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0035" x="6880" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0036" x="7310" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH0037" x="7740" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0000" x="7740" y="1258" width="430" height="629" frameX="0" frameY="0" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0001" x="7740" y="629" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0002" x="0" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0003" x="430" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0004" x="860" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0005" x="1290" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0006" x="1720" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0007" x="2150" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0008" x="2580" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0009" x="3010" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0010" x="3440" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0011" x="3870" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0012" x="4300" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0013" x="4730" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0014" x="860" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0015" x="5160" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0016" x="5590" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0017" x="6020" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0018" x="6450" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0019" x="430" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0020" x="6880" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0021" x="7310" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0022" x="0" y="1258" width="430" height="629"/>
+	<SubTexture name="PJ_DEATH_CONFIRM0023" x="7740" y="1258" width="430" height="629" frameX="0" frameY="0" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0000" x="7740" y="1258" width="430" height="629" frameX="-14" frameY="-27" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0001" x="0" y="1887" width="430" height="629" frameX="-14" frameY="-27" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0002" x="430" y="1887" width="468" height="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0003" x="898" y="1887" width="467" height="655" frameX="-1" frameY="-1" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0004" x="1365" y="1887" width="467" height="654" frameX="-1" frameY="-2" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0005" x="1832" y="1887" width="467" height="654" frameX="-1" frameY="-2" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0006" x="2299" y="1887" width="467" height="653" frameX="-1" frameY="-3" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0007" x="2766" y="1887" width="467" height="653" frameX="-1" frameY="-3" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0008" x="3233" y="1887" width="467" height="652" frameX="-1" frameY="-4" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DEATH_LOOP0009" x="3700" y="1887" width="430" height="629" frameX="-14" frameY="-27" frameWidth="468" frameHeight="656"/>
+	<SubTexture name="PJ_DOWN0000" x="4130" y="1887" width="248" height="508"/>
+	<SubTexture name="PJ_DOWN0001" x="4130" y="1887" width="248" height="508"/>
+	<SubTexture name="PJ_DOWN0002" x="4378" y="1887" width="248" height="508"/>
+	<SubTexture name="PJ_DOWN0003" x="4378" y="1887" width="248" height="508"/>
+	<SubTexture name="PJ_IDLE0000" x="4626" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0001" x="4626" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0002" x="5145" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0003" x="5145" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0004" x="5664" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0005" x="5664" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0006" x="6183" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0007" x="6183" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0008" x="6183" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_IDLE0009" x="6183" y="1887" width="519" height="571"/>
+	<SubTexture name="PJ_LEFT0000" x="6702" y="1887" width="252" height="539"/>
+	<SubTexture name="PJ_LEFT0001" x="6702" y="1887" width="252" height="539"/>
+	<SubTexture name="PJ_LEFT0002" x="6954" y="1887" width="252" height="539"/>
+	<SubTexture name="PJ_LEFT0003" x="6954" y="1887" width="252" height="539"/>
+	<SubTexture name="PJ_RIGHT0000" x="7206" y="1887" width="250" height="543"/>
+	<SubTexture name="PJ_RIGHT0001" x="7206" y="1887" width="250" height="543"/>
+	<SubTexture name="PJ_RIGHT0002" x="7456" y="1887" width="250" height="543"/>
+	<SubTexture name="PJ_RIGHT0003" x="7456" y="1887" width="250" height="543"/>
+	<SubTexture name="PJ_UP0000" x="7706" y="1887" width="302" height="570"/>
+	<SubTexture name="PJ_UP0001" x="7706" y="1887" width="302" height="570"/>
+	<SubTexture name="PJ_UP0002" x="0" y="2543" width="302" height="570"/>
+	<SubTexture name="PJ_UP0003" x="0" y="2543" width="302" height="570"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "boo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "hehe i scare u"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "baboop"
+		}
+	]
+}

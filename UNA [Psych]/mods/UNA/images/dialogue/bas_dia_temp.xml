@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bas_dia_temp.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BAS dia0000" x="0" y="0" width="434" height="460" frameX="-1" frameY="-13" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0001" x="0" y="0" width="434" height="460" frameX="-1" frameY="-13" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0002" x="434" y="0" width="442" height="467" frameX="0" frameY="-7" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0003" x="434" y="0" width="442" height="467" frameX="0" frameY="-7" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0004" x="876" y="0" width="448" height="468" frameX="-4" frameY="-7" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0005" x="1324" y="0" width="443" height="468" frameX="-9" frameY="-7" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0006" x="0" y="468" width="444" height="473" frameX="-9" frameY="-2" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0007" x="444" y="468" width="442" height="473" frameX="-11" frameY="-2" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0008" x="886" y="468" width="443" height="475" frameX="-11" frameY="0" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0009" x="886" y="468" width="443" height="475" frameX="-11" frameY="0" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0010" x="886" y="468" width="443" height="475" frameX="-11" frameY="0" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0011" x="886" y="468" width="443" height="475" frameX="-11" frameY="0" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0012" x="886" y="468" width="443" height="475" frameX="-11" frameY="0" frameWidth="454" frameHeight="475"/>
+	<SubTexture name="BAS dia0013" x="886" y="468" width="443" height="475" frameX="-11" frameY="0" frameWidth="454" frameHeight="475"/>
+</TextureAtlas>

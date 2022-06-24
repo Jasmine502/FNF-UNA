@@ -1,0 +1,40 @@
+{
+	"storyName": "RYNO",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"RYNO",
+			"ryno",
+			[
+				147,
+				147,
+				147
+			]
+		],
+		[
+			"SERUS",
+			"ryno",
+			[
+				147,
+				147,
+				147
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bob"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "AST IDLE"
+		},
+		{
+			"offsets": [
+				5,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "AST UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "AST RIGHT"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "AST LEFT"
+		},
+		{
+			"offsets": [
+				14,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "AST DOWN"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Asteria_assets",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "asteria",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		156,
+		191
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

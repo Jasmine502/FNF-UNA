@@ -1,0 +1,49 @@
+{
+	"storyName": "world's final reality",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"parents-christmas",
+		"pj",
+		"oj"
+	],
+	"songs": [
+		[
+			"Somadios",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lilith",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Khaos",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

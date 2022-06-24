@@ -1,0 +1,10 @@
+{
+	"idle_anim": "MENU_OJ_TEMP",
+	"image": "MENU_OJ_TEMP",
+	"position": [
+		110,
+		150
+	],
+	"scale": 0.5,
+	"confirm_anim": "MENU_PJ_TEMP"
+}

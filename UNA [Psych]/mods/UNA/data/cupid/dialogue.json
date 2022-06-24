@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "valentines imma sit u down"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "no"
+		}
+	]
+}

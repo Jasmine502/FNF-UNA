@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_PJ_TEMP.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu_PJ_TEMP0000" x="0" y="0" width="420" height="629"/>
+	<SubTexture name="Menu_PJ_TEMP0001" x="0" y="0" width="420" height="629"/>
+	<SubTexture name="Menu_PJ_TEMP0002" x="0" y="0" width="420" height="629"/>
+	<SubTexture name="Menu_PJ_TEMP0003" x="0" y="0" width="420" height="629"/>
+	<SubTexture name="Menu_PJ_TEMP0004" x="0" y="0" width="420" height="629"/>
+</TextureAtlas>

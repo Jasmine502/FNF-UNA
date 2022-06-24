@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LG IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LG LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LG DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LG UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LG RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/little_ghost_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "littleghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		139,
+		139
+	],
+	"camera_position": [
+		-20,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
