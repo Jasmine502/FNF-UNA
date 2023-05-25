@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lamp_anim.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lamp0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="lamp0001" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="lamp0002" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="lamp0003" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="lamp0004" x="2560" y="1400" width="2560" height="1400"/>
+	<SubTexture name="lamp0005" x="5120" y="1400" width="2560" height="1400"/>
+	<SubTexture name="lamp0006" x="0" y="2800" width="2560" height="1400"/>
+	<SubTexture name="lamp0007" x="2560" y="2800" width="2560" height="1400"/>
+	<SubTexture name="lamp0008" x="5120" y="2800" width="2560" height="1400"/>
+	<SubTexture name="lamp0009" x="0" y="4200" width="2560" height="1400"/>
+	<SubTexture name="lamp0010" x="2560" y="4200" width="2560" height="1400"/>
+	<SubTexture name="lamp0011" x="5120" y="4200" width="2560" height="1400"/>
+	<SubTexture name="lamp0012" x="0" y="5600" width="2560" height="1400"/>
+	<SubTexture name="lamp0013" x="2560" y="5600" width="2560" height="1400"/>
+	<SubTexture name="lamp0014" x="5120" y="5600" width="2560" height="1400"/>
+</TextureAtlas>

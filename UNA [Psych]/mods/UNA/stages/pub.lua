@@ -1,28 +1,59 @@
+-- x and y positions of the stage
+local x = -575;
+local y = -250;
+
 function onCreate()
-	-- background shit
-	makeLuaSprite('pub_BG', 'pub_background', -575, -200);
+	-- background
+	makeLuaSprite('pub_BG', 'bar_stage/pub_background', x, y);
     addLuaSprite('pub_BG',false);
 
-    makeLuaSprite('pub_MG', 'pub_midground', -575, -200);
+    -- sign
+    makeAnimatedLuaSprite('sign', 'bar_stage/pub_sign', x, y);
+    addLuaSprite('sign',false);
+    luaSpriteAddAnimationByPrefix('sign','sign','sign',24,true);
+    objectPlayAnimation('sign','sign',false);
+
+    -- eye
+    makeAnimatedLuaSprite('eye', 'bar_stage/eye_anim', x, y);
+    addLuaSprite('eye',false);
+    luaSpriteAddAnimationByPrefix('eye','eye','eye',24,true);
+    objectPlayAnimation('eye','eye',false);    
+
+    -- midground
+    makeLuaSprite('pub_MG', 'bar_stage/pub_midground', x, y);
     addLuaSprite('pub_MG',true);
 
-    makeAnimatedLuaSprite('bartender','bartender_anim',-575, -200)
-    addAnimationbyPrefix('bartender','bottle',"bar_anim",24,true)
-    addLuaSprite('bartender',true)
-    objectPlayAnimation('barender','bottle',false)
+    -- lamp (spritesheet must be fixed)
+    makeAnimatedLuaSprite('lamp','bar_stage/lamp_anim',x, y);
+    addLuaSprite('lamp',false);
+    luaSpriteAddAnimationByPrefix('lamp','lamp','lamp',24,true);
+    objectPlayAnimation('lamp','lamp',false); 
 
-    makeAnimatedLuaSprite('bfpico','bf_pico_anim',-575, -200)
-    addAnimationbyPrefix('bfpico','bfpicobounce',"bfpico",24,true)
-    addLuaSprite('bfpico',true)
-    objectPlayAnimation('bfpico','bfpicobounce',false)
+    -- sonia
+    makeAnimatedLuaSprite('sonia','bar_stage/sonia_anim',x, y);
+    luaSpriteAddAnimationByPrefix('sonia','sonia','sonia',24,true);
+    addLuaSprite('sonia',false);
+
+    -- bf and pico
+    makeAnimatedLuaSprite('bfpico','bar_stage/bf_pico_anim',x, y);
+    luaSpriteAddAnimationByPrefix('bfpico','bfpico','bfpico',24,true);
+    addLuaSprite('bfpico',false);
+
+    -- bartender
+    makeAnimatedLuaSprite('bartender','bar_stage/bartender_anim',x, y);
+    addLuaSprite('bartender',true);
+    luaSpriteAddAnimationByPrefix('bartender','bar_anim','bar_anim',24,true);
+    objectPlayAnimation('bartender','bar_anim',false);
 
 end
 
 function onBeatHit()
-
+    objectPlayAnimation('bfpico','bfpico',true);
+    objectPlayAnimation('sonia','sonia',true);
 end
 
 function onStepHit()
+    
 
 end
 

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonia_anim.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonia0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="sonia0001" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="sonia0002" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="sonia0003" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0004" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0005" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0006" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0007" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0008" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0009" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0010" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0011" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0012" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0013" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0014" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0015" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0016" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0017" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0018" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0019" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0020" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0021" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0022" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="sonia0023" x="0" y="1400" width="2560" height="1400"/>
+</TextureAtlas>

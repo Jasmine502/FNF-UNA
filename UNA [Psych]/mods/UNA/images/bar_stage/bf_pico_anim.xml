@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_pico_anim.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfpico0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="bfpico0001" x="2560" y="0" width="2560" height="1400"/>
+	<SubTexture name="bfpico0002" x="5120" y="0" width="2560" height="1400"/>
+	<SubTexture name="bfpico0003" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0004" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0005" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0006" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0007" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0008" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0009" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0010" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0011" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0012" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0013" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0014" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0015" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0016" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0017" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0018" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0019" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0020" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0021" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0022" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0023" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0024" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0025" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0026" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0027" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0028" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0029" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0030" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0031" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0032" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0033" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0034" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0035" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0036" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0037" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0038" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0039" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0040" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0041" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0042" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0043" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="bfpico0044" x="0" y="1400" width="2560" height="1400"/>
+</TextureAtlas>
