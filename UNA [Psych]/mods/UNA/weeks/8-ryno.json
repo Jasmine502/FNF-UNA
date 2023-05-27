@@ -2,19 +2,15 @@
 	"storyName": "RYNO",
 	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "school",
+	"weekBackground": "",
+	"weekBefore": "7-asteria",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "week7",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"bf",
-		"bf",
-		"gf"
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"RYNO",
@@ -35,6 +31,11 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
+	"weekCharacters": [
+		"ryno",
+		"pj",
+		"oj"
+	],
+	"hiddenUntilUnlocked": true,
 	"weekName": "Custom Week"
 }

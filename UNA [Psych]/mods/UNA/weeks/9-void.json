@@ -1,6 +1,6 @@
 {
-	"storyName": "Your New Week",
-	"difficulties": "",
+	"storyName": "my lost soul",
+	"difficulties": "Easy, Normal, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
 	"freeplayColor": [
@@ -8,12 +8,12 @@
 		113,
 		253
 	],
-	"weekBefore": "",
-	"startUnlocked": true,
+	"weekBefore": "7-asteria",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"mom",
 		"littleghost",
-		"oj"
+		""
 	],
 	"songs": [
 		[
@@ -26,6 +26,7 @@
 			]
 		]
 	],
-	"hideStoryMode": true,
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
 }
