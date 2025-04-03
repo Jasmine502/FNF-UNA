@@ -1,8 +1,6 @@
-Drop you custom music here!
-It should be in .ogg otherwise it won't work!!!
+!!THIS ISN'T WHERE YOU PUT YOUR SONGS!!
+!!YOU PUT THEM IN SONGS/!!
 
-BEWARE!!!
-This is not about your Song's music (Instrumental or Voices),
-if you want to implement Song Inst/Voices, go to "mods/songs/" folder
-
-This is simply for being used with Lua's "playMusic".
+Put your music here!
+(To be more specific, game over music (the beginning, loop and end), cutscene music, etc.)
+Said music can also be played through Lua, using playSound.

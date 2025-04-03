@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Amatheia_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AMA DOWN0000" x="0" y="0" width="494" height="382" frameX="-13" frameY="-9" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0001" x="0" y="0" width="494" height="382" frameX="-13" frameY="-9" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0002" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0003" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0004" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0005" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0006" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0007" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0008" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0009" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA DOWN0010" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="AMA IDLE0000" x="996" y="0" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0001" x="996" y="0" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0002" x="1431" y="0" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0003" x="1431" y="0" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0004" x="0" y="468" width="448" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0005" x="448" y="468" width="444" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0006" x="892" y="468" width="444" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0007" x="1336" y="468" width="442" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0008" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0009" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0010" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0011" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0012" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA IDLE0013" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="AMA LEFT0000" x="443" y="942" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0001" x="443" y="942" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0002" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0003" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0004" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0005" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0006" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0007" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0008" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0009" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0010" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0011" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0012" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0013" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0014" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0015" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA LEFT0016" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="AMA RIGHT0000" x="1343" y="942" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="AMA RIGHT0001" x="1343" y="942" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="AMA RIGHT0002" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0003" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0004" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0005" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0006" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0007" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0008" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0009" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0010" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0011" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0012" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0013" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0014" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0015" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA RIGHT0016" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="AMA UP0000" x="455" y="1418" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0001" x="455" y="1418" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0002" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0003" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0004" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0005" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0006" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0007" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0008" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0009" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0010" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0011" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0012" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="AMA UP0013" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+</TextureAtlas>

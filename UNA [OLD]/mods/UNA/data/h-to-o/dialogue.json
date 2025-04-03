@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "amatheia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "glugluglugluglugluglug"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amatheia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sorry"
+		}
+	]
+}

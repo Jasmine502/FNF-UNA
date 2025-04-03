@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bas_draft.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BAS DOWN0000" x="0" y="0" width="723" height="382" frameX="-13" frameY="-9" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0001" x="0" y="0" width="723" height="382" frameX="-13" frameY="-9" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0002" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0003" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0004" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0005" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0006" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0007" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0008" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0009" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS DOWN0010" x="723" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="736" frameHeight="392"/>
+	<SubTexture name="BAS IDLE0000" x="1225" y="0" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0001" x="1225" y="0" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0002" x="0" y="461" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0003" x="0" y="461" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0004" x="442" y="461" width="448" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0005" x="890" y="461" width="444" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0006" x="1334" y="461" width="444" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0007" x="0" y="935" width="442" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0008" x="442" y="935" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0009" x="442" y="935" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0010" x="442" y="935" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0011" x="442" y="935" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0012" x="442" y="935" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS IDLE0013" x="442" y="935" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="BAS LEFT0000" x="885" y="935" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0001" x="885" y="935" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0002" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0003" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0004" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0005" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0006" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0007" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0008" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0009" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0010" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0011" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0012" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0013" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0014" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0015" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS LEFT0016" x="1343" y="935" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="BAS RIGHT0000" x="0" y="1411" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="BAS RIGHT0001" x="0" y="1411" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="BAS RIGHT0002" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0003" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0004" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0005" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0006" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0007" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0008" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0009" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0010" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0011" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0012" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0013" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0014" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0015" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS RIGHT0016" x="449" y="1411" width="455" height="464"/>
+	<SubTexture name="BAS UP0000" x="904" y="1411" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0001" x="904" y="1411" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0002" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0003" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0004" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0005" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0006" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0007" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0008" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0009" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0010" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0011" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0012" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="BAS UP0013" x="1336" y="1411" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+</TextureAtlas>

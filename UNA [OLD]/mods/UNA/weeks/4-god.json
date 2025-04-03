@@ -1,0 +1,49 @@
+{
+	"storyName": "world's first reality",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Miracle",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Exomorphosis",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Genesis",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"mom",
+		"pj",
+		"oj"
+	],
+	"weekName": "Custom Week"
+}

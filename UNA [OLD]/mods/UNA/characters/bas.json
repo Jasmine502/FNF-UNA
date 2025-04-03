@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BAS IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BAS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BAS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BAS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BAS DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bas_assets",
+	"position": [
+		-140,
+		230
+	],
+	"healthicon": "bas",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-210,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		-70
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "JK IDLE dia",
+			"idle_name": "JK IDLE dia0003"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "JK RIGHT dia",
+			"idle_name": "JK RIGHT dia0003"
+		}
+	],
+	"image": "jk_dia_temp"
+}

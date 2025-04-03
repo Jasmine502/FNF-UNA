@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AMA IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AMA LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AMA DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AMA RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AMA UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amatheia_assets",
+	"position": [
+		-140,
+		230
+	],
+	"healthicon": "amatheia",
+	"flip_x": true,
+	"healthbar_colors": [
+		248,
+		224,
+		-2147483648
+	],
+	"camera_position": [
+		-210,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

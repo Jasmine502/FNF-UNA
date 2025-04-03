@@ -1,0 +1,49 @@
+{
+	"storyName": "xerberus",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bipubeep",
+			"jaykakashi",
+			[
+				20,
+				43,
+				100
+			]
+		],
+		[
+			"Cupid",
+			"jaykakashi",
+			[
+				20,
+				43,
+				100
+			]
+		],
+		[
+			"PIZZAWURK",
+			"jaykakashi",
+			[
+				20,
+				43,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"jaykakashi",
+		"pj",
+		"oj"
+	],
+	"weekName": "Custom Week"
+}

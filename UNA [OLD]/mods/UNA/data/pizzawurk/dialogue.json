@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "you're a real"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "piece of"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pizzawurk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bep"
+		}
+	]
+}

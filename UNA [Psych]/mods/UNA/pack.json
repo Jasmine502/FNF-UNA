@@ -2,5 +2,9 @@
 	"name": "UNA",
 	"description": "WELCOME TO UNA.",
 	"restart":false,
-	"color": [170, 0, 255]
+	"color": [170, 0, 255],
+	"runsGlobally": false,
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10,
+	"enabled": true
 }

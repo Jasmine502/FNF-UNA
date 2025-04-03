@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dustin_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DST DOWN0000" x="0" y="0" width="494" height="382" frameX="-13" frameY="-9" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0001" x="0" y="0" width="494" height="382" frameX="-13" frameY="-9" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0002" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0003" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0004" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0005" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0006" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0007" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0008" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0009" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST DOWN0010" x="494" y="0" width="502" height="392" frameX="0" frameY="0" frameWidth="507" frameHeight="392"/>
+	<SubTexture name="DST IDLE0000" x="996" y="0" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0001" x="996" y="0" width="435" height="461" frameX="-18" frameY="-13" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0002" x="1431" y="0" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0003" x="1431" y="0" width="442" height="468" frameX="-11" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0004" x="0" y="468" width="448" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0005" x="448" y="468" width="444" height="469" frameX="-1" frameY="-6" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0006" x="892" y="468" width="444" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0007" x="1336" y="468" width="442" height="474" frameX="-1" frameY="-1" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0008" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0009" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0010" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0011" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0012" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST IDLE0013" x="0" y="942" width="443" height="475" frameX="0" frameY="0" frameWidth="453" frameHeight="475"/>
+	<SubTexture name="DST LEFT0000" x="443" y="942" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0001" x="443" y="942" width="458" height="476" frameX="-1" frameY="0" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0002" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0003" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0004" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0005" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0006" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0007" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0008" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0009" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0010" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0011" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0012" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0013" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0014" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0015" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST LEFT0016" x="901" y="942" width="442" height="473" frameX="0" frameY="-3" frameWidth="459" frameHeight="476"/>
+	<SubTexture name="DST RIGHT0000" x="1343" y="942" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="DST RIGHT0001" x="1343" y="942" width="449" height="462" frameX="-6" frameY="-2" frameWidth="455" frameHeight="464"/>
+	<SubTexture name="DST RIGHT0002" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0003" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0004" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0005" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0006" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0007" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0008" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0009" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0010" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0011" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0012" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0013" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0014" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0015" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST RIGHT0016" x="0" y="1418" width="455" height="464"/>
+	<SubTexture name="DST UP0000" x="455" y="1418" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0001" x="455" y="1418" width="432" height="495" frameX="0" frameY="0" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0002" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0003" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0004" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0005" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0006" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0007" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0008" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0009" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0010" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0011" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0012" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+	<SubTexture name="DST UP0013" x="887" y="1418" width="432" height="490" frameX="-1" frameY="-5" frameWidth="433" frameHeight="495"/>
+</TextureAtlas>

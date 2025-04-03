@@ -1,0 +1,58 @@
+{
+	"storyName": "BLRY",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Woah",
+			"brooks",
+			[
+				183,
+				190,
+				216
+			]
+		],
+		[
+			"XP",
+			"dustin",
+			[
+				60,
+				87,
+				223
+			]
+		],
+		[
+			"ARROZ",
+			"bas",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"H to O",
+			"amatheia",
+			[
+				255,
+				242,
+				68
+			]
+		]
+	],
+	"weekCharacters": [
+		"pico",
+		"pj",
+		"oj"
+	],
+	"weekName": "Custom Week"
+}
