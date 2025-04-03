@@ -1,24 +1,24 @@
 {
+	"dialogue_pos": "left",
 	"position": [
 		70,
 		60
 	],
-	"dialogue_pos": "left",
 	"scale": 1.25,
-	"image": "bas_dia_temp",
 	"animations": [
 		{
-			"idle_offsets": [
-				-2,
-				-1
-			],
+			"anim": "talk",
 			"loop_offsets": [
 				0,
-				0
+				-30
 			],
-			"anim": "talk",
-			"idle_name": "BAS dia0013",
-			"loop_name": "BAS dia"
+			"idle_offsets": [
+				0,
+				-30
+			],
+			"loop_name": "AMA dia",
+			"idle_name": "AMA dia0013"
 		}
-	]
+	],
+	"image": "bas_dia_temp"
 }

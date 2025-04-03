@@ -1,37 +1,37 @@
 {
-	"dialogue_pos": "left",
 	"position": [
 		120,
 		-70
 	],
+	"dialogue_pos": "left",
 	"scale": 1.25,
+	"image": "jk_dia_temp",
 	"animations": [
 		{
-			"anim": "talk",
-			"loop_offsets": [
-				0,
-				0
-			],
 			"idle_offsets": [
 				0,
 				0
 			],
-			"loop_name": "JK IDLE dia",
-			"idle_name": "JK IDLE dia0003"
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "JK IDLE dia0003",
+			"loop_name": "JK IDLE dia"
 		},
 		{
-			"loop_offsets": [
-				0,
-				0
-			],
-			"anim": "pissed",
 			"idle_offsets": [
 				0,
-				0
+				-10
 			],
-			"loop_name": "JK RIGHT dia",
-			"idle_name": "JK RIGHT dia0003"
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "JK RIGHT dia0003",
+			"loop_name": "JK RIGHT dia"
 		}
-	],
-	"image": "jk_dia_temp"
+	]
 }

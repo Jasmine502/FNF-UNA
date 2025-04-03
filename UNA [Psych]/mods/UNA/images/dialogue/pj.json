@@ -1,0 +1,116 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		70
+	],
+	"no_antialiasing": false,
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "PJ IDLE dia",
+			"idle_name": "PJ IDLE dia0003"
+		},
+		{
+			"loop_offsets": [
+				12,
+				-3
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				12,
+				-3
+			],
+			"loop_name": "PJ UP dia",
+			"idle_name": "PJ UP dia0001"
+		},
+		{
+			"loop_name": "PJ RIGHT dia",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "PJ RIGHT dia0001",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "PJ MISS LEFT dia",
+			"idle_offsets": [
+				-30,
+				-10
+			],
+			"idle_name": "PJ MISS LEFT dia0000",
+			"anim": "confused",
+			"loop_offsets": [
+				-30,
+				-10
+			]
+		},
+		{
+			"loop_name": "PJ DOWN dia",
+			"idle_offsets": [
+				-41,
+				-13
+			],
+			"idle_name": "PJ DOWN dia0001",
+			"anim": "smug",
+			"loop_offsets": [
+				-41,
+				-13
+			]
+		},
+		{
+			"loop_name": "PJ MISS RIGHT dia",
+			"idle_offsets": [
+				-40,
+				-10
+			],
+			"idle_name": "PJ MISS RIGHT dia0000",
+			"anim": "embarassed",
+			"loop_offsets": [
+				-40,
+				-10
+			]
+		},
+		{
+			"loop_name": "PJ LEFT dia",
+			"idle_offsets": [
+				-10,
+				0
+			],
+			"idle_name": "PJ LEFT dia0001",
+			"anim": "cheeky",
+			"loop_offsets": [
+				-10,
+				0
+			]
+		},
+		{
+			"loop_name": "PJ MISS DOWN dia",
+			"idle_offsets": [
+				-40,
+				-10
+			],
+			"idle_name": "PJ MISS DOWN dia0000",
+			"anim": "shy",
+			"loop_offsets": [
+				-40,
+				-10
+			]
+		}
+	],
+	"image": "PJ_assets_dia"
+}

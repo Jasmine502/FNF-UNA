@@ -1,24 +1,24 @@
 {
-	"dialogue_pos": "center",
 	"position": [
 		0,
 		100
 	],
+	"dialogue_pos": "center",
 	"scale": 1.25,
+	"image": "oj_dia_temp",
 	"animations": [
 		{
-			"anim": "talk",
+			"idle_offsets": [
+				0,
+				-15
+			],
 			"loop_offsets": [
 				0,
-				-11
+				-15
 			],
-			"idle_offsets": [
-				-1,
-				-12
-			],
-			"loop_name": "OJ dia",
-			"idle_name": "OJ dia0005"
+			"anim": "talk",
+			"idle_name": "OJ dia0005",
+			"loop_name": "OJ dia"
 		}
-	],
-	"image": "oj_dia_temp"
+	]
 }

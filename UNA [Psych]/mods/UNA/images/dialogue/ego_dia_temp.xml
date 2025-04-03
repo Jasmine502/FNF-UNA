@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ego_dia_temp.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ego talk instance 10000" x="0" y="0" width="383" height="396"/>
+	<SubTexture name="ego talk instance 10001" x="383" y="0" width="383" height="394" frameX="0" frameY="-2" frameWidth="383" frameHeight="396"/>
+</TextureAtlas>

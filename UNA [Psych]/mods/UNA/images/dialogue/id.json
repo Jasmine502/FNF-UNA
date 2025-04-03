@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		10,
+		-50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "id instance 1000",
+			"idle_name": "id instance 10000"
+		}
+	],
+	"image": "Id_dia_temp"
+}

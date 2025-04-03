@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PJ_assets_dia.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PJ DOWN dia0000" x="0" y="0" width="248" height="339"/>
+	<SubTexture name="PJ DOWN dia0001" x="248" y="0" width="248" height="339"/>
+	<SubTexture name="PJ IDLE dia0000" x="496" y="0" width="326" height="356"/>
+	<SubTexture name="PJ IDLE dia0001" x="822" y="0" width="326" height="356"/>
+	<SubTexture name="PJ IDLE dia0002" x="1148" y="0" width="326" height="356"/>
+	<SubTexture name="PJ IDLE dia0003" x="1474" y="0" width="326" height="356"/>
+	<SubTexture name="PJ LEFT dia0000" x="0" y="356" width="252" height="349"/>
+	<SubTexture name="PJ LEFT dia0001" x="252" y="356" width="252" height="349"/>
+	<SubTexture name="PJ MISS DOWN dia0000" x="504" y="356" width="247" height="340"/>
+	<SubTexture name="PJ MISS LEFT dia0000" x="751" y="356" width="251" height="332"/>
+	<SubTexture name="PJ MISS RIGHT dia0000" x="1002" y="356" width="248" height="350"/>
+	<SubTexture name="PJ RIGHT dia0000" x="1250" y="356" width="250" height="350"/>
+	<SubTexture name="PJ RIGHT dia0001" x="1500" y="356" width="250" height="350"/>
+	<SubTexture name="PJ UP dia0000" x="0" y="706" width="302" height="346"/>
+	<SubTexture name="PJ UP dia0001" x="302" y="706" width="302" height="346"/>
+</TextureAtlas>

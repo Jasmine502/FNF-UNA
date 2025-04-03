@@ -9,7 +9,7 @@
 		253
 	],
 	"weekBefore": "7-asteria",
-	"startUnlocked": false,
+	"startUnlocked": true,
 	"weekCharacters": [
 		"mom",
 		"littleghost",
@@ -28,5 +28,5 @@
 	],
 	"hideStoryMode": false,
 	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": true
+	"hiddenUntilUnlocked": false
 }

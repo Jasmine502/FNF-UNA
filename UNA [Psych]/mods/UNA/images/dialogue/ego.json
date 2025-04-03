@@ -1,0 +1,25 @@
+{
+	"position": [
+		-50,
+		40
+	],
+	"dialogue_pos": "center",
+	"no_antialiasing": false,
+	"scale": 1.45,
+	"image": "ego_dia_temp",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-15
+			],
+			"loop_offsets": [
+				0,
+				-15
+			],
+			"anim": "talk",
+			"idle_name": "ego talk instance 10000",
+			"loop_name": "ego talk instance 10000"
+		}
+	]
+}
