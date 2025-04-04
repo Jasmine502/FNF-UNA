@@ -2,31 +2,31 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, for an incorporeal being, you're pretty sick at this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "O-oh... Thank you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We should totally make an album together!"
+		},
+		{
+			"speed": 0.05,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "sad",
-			"text": "yea so..."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": ""
-		},
-		{
-			"speed": 0.05,
-			"portrait": "littleghost",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": ""
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": ""
+			"text": "That sounds wonderful... But, you see..."
 		}
 	]
 }

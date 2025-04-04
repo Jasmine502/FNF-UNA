@@ -2,31 +2,31 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "brooks",
+			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Woah! You're Big X's daughter, right? Sick flow!"
+			"text": "You are persistently infuriating... much like *them*."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Thanks, man! Sick bucket!"
+			"expression": "cheeky",
+			"text": "Yo! Bet I'm stronger than you right now!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "brooks",
+			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Cheers! It's my Granddad's! Tryna go bar-for-bar?"
+			"text": "YOU KNOW... NOTHING!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Bring it on, BucketBoy!"
+			"expression": "confused",
+			"text": "Whoa, chill out, lady."
 		}
 	]
 }

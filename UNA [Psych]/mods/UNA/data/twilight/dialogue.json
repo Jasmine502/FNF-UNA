@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's beautiful, isn't it? Like a memory drawn just for us. Hello, my star."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "embarassed",
+			"text": "But... how? You're... you're gone..."
+		},
+        {
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shhh. Let's not worry about that now. The blue hour... it's always been special. Let's just share this twilight? Another melody?"
+		}
+	]
+}

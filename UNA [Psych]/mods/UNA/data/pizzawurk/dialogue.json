@@ -4,29 +4,36 @@
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "you're a real"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "jaykakashi",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "piece of"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "jaykakashi",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "pizzawurk"
+			"text": "Getting better. But you still have a long way to go."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "bep"
+			"expression": "smug",
+			"text": "Aww.... Old demon getting tired?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hardly! You're such a piece of work, you know that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "And I'll never change! Beep bap bap boop bop!"
+		},
+		{
+			"speed": 1.00,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
 		}
 	]
 }

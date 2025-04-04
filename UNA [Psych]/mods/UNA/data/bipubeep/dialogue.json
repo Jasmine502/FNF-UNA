@@ -5,14 +5,35 @@
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "wagwan my g"
+			"text": "Jasmine! Welcome to Xerberus Records HQ. Pretty slick, huh?"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "bup bop"
+			"expression": "cheeky",
+			"text": "Super cool! Since you're my dad AND my boss... does that mean I get double allowance?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "(Sigh)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "It just keeps going around and around..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ayy! W reference!"
 		}
 	]
 }

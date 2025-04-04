@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your attempts are futile, child. It's quite amusing, really."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "L-Leave... before I lose control..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dad, snap out of it! Think about me! About Mum!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hush, you insolent worm! Don't hold back, my pet."
+		}
+	]
+}

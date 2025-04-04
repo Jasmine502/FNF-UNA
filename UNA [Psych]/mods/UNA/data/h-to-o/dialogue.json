@@ -5,21 +5,28 @@
 			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "glugluglugluglugluglug"
+			"text": "H-hi PJ! You're really amazing!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": ""
+			"expression": "talk",
+			"text": "'Preciate it, Fishy!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "sorry"
+			"text": "Hehe! Ready to dive in?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Let's make a splash!"
 		}
 	]
 }

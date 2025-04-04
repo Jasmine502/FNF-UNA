@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "D-Dad?! What's going on with you?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Jasmine... you shouldn't have come."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your father has finally learned his place. As my pet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Nuh uh!"
+		}
+	]
+}

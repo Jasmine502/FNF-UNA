@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "B. Kyu? You're looking kinda rough there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bkyu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HAHAHAHAHA!!! Tear me apart! I'll STILL be hotter than YOU!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Yikes."
+		}
+	]
+}

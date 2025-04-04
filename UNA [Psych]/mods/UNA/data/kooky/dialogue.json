@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seriously, B. Kyu, you're not looking okay. Maybe you should, like, chill for a sec?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bkyu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Darling, I AM perfection! Remade! Reborn! STRONGER!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Man... Ghost really wanted to help you out, y'know?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bkyu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Help?! I don't need help! I need MORE! Let's just burn it ALL down! STARTING WITH YOU!"
+		}
+	]
+}

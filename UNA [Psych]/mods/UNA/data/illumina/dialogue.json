@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mum... singing with you... it felt so real. Like you were right here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It *was* real, for this moment. But the brightest stars eventually return to the cosmos, my love."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "embarassed",
+			"text": "No! Please! Don't leave me again... It hurts too much!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, my sweet Jasmine... I am always with you. Look up. That's where I'll be."
+		},
+        {
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You carry my light now. *You* are the rising star. Your father... he needs your light too. Don't let him lose himself in the dark."
+		},
+        {
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "I love you, Mum. So much."
+		},
+        {
+			"speed": 0.04,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+            "text": "I love you infinitely, my PJ. More than every star in the sky. Now go. *Illuminate* everything."
+		},
+        {
+            "speed": 0.06,
+            "portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+            "text": "My only regret is that I won't be with you to see it all..."
+        },
+        {
+            "speed": 0.08,
+            "portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+            "text": "...Shine..."
+        },
+        {
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Mum! NO! WAIT! COME BACK! Please... don't go..."
+		}
+	]
+}

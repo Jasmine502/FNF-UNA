@@ -2,31 +2,38 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Babe, you seein' this pub's lighting? Kinda wild!"
+		},
+		{
+			"speed": 1.00,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "im bored"
+			"text": "..."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "didnt ask"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "i mean"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep"
+			"text": "Yes, babe. I 'see' it perfectly."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "embarassed",
+			"text": "O-oh FUCK! Shit! I'm so sorry baby I totally forgot-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Relax, goofy. It's fine. Let's just sing."
 		}
 	]
 }
