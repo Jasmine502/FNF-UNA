@@ -1,11 +1,11 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Perhaps you require context to perceive my pain."
+			"text": "Perhaps... if you witnessed the beginning... you might comprehend a fraction of this agony."
 		},
 		{
 			"speed": 0.05,
@@ -15,11 +15,11 @@
 			"text": "Finally! I hate guessing games."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Join me on this journey... to the world's first reality."
+			"text": "Come then. Witness the genesis... the world's first reality."
 		},
 		{
 			"speed": 0.05,
@@ -27,6 +27,13 @@
 			"boxState": "normal",
 			"expression": "shy",
 			"text": "Not like I have a choice, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "downcast",
+			"text": "Probably not..."
 		}
 	]
 }

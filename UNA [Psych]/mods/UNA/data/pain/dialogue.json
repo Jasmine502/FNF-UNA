@@ -4,22 +4,85 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "M-Mum?"
+			"expression": "shocked",
+			"text": "Mum...? Is it really you? God, I-I can barely breathe seeing you here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Please tell me this isn't just another dream that'll shatter when I wake."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For now, Jasmine. Just for now. These pages hold what little remains of me."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My sweet girl... how I've ached to see your face one last time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "I can't... I can't do this..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "It's like someone's carved out everything inside me. Why did you have to leave? Why?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "asteria",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "My child. I don't have much time."
+			"text": "Oh, my darling. UNA gives and takes with cruel indifference."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I could rewrite the constellations themselves to stay, believe me, I would."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "embarassed",
-			"text": "What... what do you mean, Mum?"
+			"expression": "shy",
+			"text": "It feels like drowning, Mum. Every single day without you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then let the music be our lifeline, just for these fleeting moments we have left."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sing with me through the tears, through this unbearable weight crushing us both."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "...I'm suffocating in it, but I'll try. For you. One last song through the pain."
 		}
 	]
 }

@@ -1,32 +1,67 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.03,
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "You... you're still here? You remember me?"
+		},
+		{
+			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "happy",
-			"text": "I'm... surprised you're still here!"
+			"text": "I can't believe it! Usually, people just... drift away."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "The frack? Why wouldn't I be? You're chill, Ghost."
+			"text": "The frack? Why wouldn't we be? Course we remember! You're chill, Ghost."
 		},
 		{
-			"speed": 0.03,
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That curse sounds truly lonely, Ghost. We won't forget you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's nice to see you looking happy about it."
+		},
+		{
+			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "awkward",
-			"text": "Um... thanks. Would you... like to sing some more?"
+			"text": "Um... thanks. It's... nice."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "Would you... like to sing some more? While you still... you know."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "LET'S FUCKING GOOOOO!"
+			"text": "HELL YEAH! LET'S FUCKING GOOOOO!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Babe, indoor voice. Or... outdoor voice, I guess. We're outside? It's hard to tell here."
 		}
 	]
 }

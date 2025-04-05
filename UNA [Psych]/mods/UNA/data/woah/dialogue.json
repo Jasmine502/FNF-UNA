@@ -5,28 +5,56 @@
 			"portrait": "brooks",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Woah! You're Big X's daughter, right? Sick flow!"
+			"text": "Woah! You're Big X's daughter, right? Sick mic!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "Thanks, man! Sick bucket!"
+			"text": "Thanks, man! Love the bucket you're rocking!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "Wait, really? He's wearing a bucket on his head?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah! It's awesome!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "brooks",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Cheers! It's my Granddad's! Tryna go bar-for-bar?"
+			"text": "It's my Granddad's war helmet! Cool, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A war helmet bucket... Okay, The Liar sounds interesting."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brooks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright PJ, you tryna go bar-for-bar?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "Bring it on, BucketBoy!"
+			"text": "You bet! Bring it on, BucketBoy!"
 		}
 	]
 }

@@ -1,32 +1,60 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.1,
 			"portrait": "jaykakashi",
+			"boxState": "angry",
+			"expression": "intense",
+			"text": "ROAAAARRRRR!!!!!!!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "ROAAAAAAAAAAAAAAAAAAAAAAARRR!!!"
+			"expression": "worried",
+			"text": "Make it stop... please make it stop, PJ... it hurts..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Isn't it beautiful."
+			"text": "Ah, the symphony of my creation breaking! Isn't it exquisite?" 
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Dad! Please! You're hurting her! You're hurting everyone!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pain is merely a prelude to submission, little star. He is almost mine completely."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "I won't give up on you dad! Even if you're alpha male-ing too hard!"
+			"expression": "embarassed",
+			"text": "N-No! I won't let you! Even if... even if you're this strong..."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "downcast",
+			"text": "...run, PJ... save yourself..."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "jaykakashi",
+			"portrait": "id",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "Chaos... Anarchy... need more."
+			"expression": "talk",
+			"text": "There's nowhere left to run. Welcome... to *my* chaos."
 		}
 	]
 }

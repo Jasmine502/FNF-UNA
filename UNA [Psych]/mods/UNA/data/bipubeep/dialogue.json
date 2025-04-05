@@ -5,27 +5,41 @@
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Jasmine! Welcome to Xerberus Records HQ. Pretty slick, huh?"
+			"text": "Jasmine! Camille! Welcome to Xerberus Records HQ. Pretty slick, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It certainly sounds big. Lots of echo."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
+			"expression": "excited",
 			"text": "Super cool! Since you're my dad AND my boss... does that mean I get double allowance?"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "jaykakashi",
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "(Sigh)"
+			"expression": "wry",
+			"text": "Don't push your luck, babe."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "cheeky",
+			"text": "Heh. Don't count on it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "confused",
 			"text": "It just keeps going around and around..."
 		},
 		{

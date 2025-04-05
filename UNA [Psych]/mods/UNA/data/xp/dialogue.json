@@ -4,22 +4,29 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Yo, Dustin! Baked off your gourd right now?"
+			"expression": "cheeky",
+			"text": "Yo, Dustin! You orbiting Iriella right now or just baked off your gourd?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "He sounds... floaty. Is he floating?"
 		},
 		{
 			"speed": 0.10,
 			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Far out... Captain..."
+			"text": "Whoa... Heh... Captain's just... cruising the cosmic waves right now, yeah."
 		},
 		{
-			"speed": 0.5,
+			"speed": 0.1,
 			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Ahoy...!"
+			"text": "Yeah... like... listen close... the stars are totally singing tonight..."
 		},
 		{
 			"speed": 0.01,
@@ -27,6 +34,13 @@
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Think we lost him to the cosmos."
 		},
 		{
 			"speed": 0.05,

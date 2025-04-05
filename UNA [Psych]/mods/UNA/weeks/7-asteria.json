@@ -1,16 +1,20 @@
 {
 	"storyName": "ASTERIA",
-	"difficulties": "",
+	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "school",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"senpai",
+		"pj",
+		"oj"
+	],
 	"songs": [
 		[
 			"pain",
@@ -40,10 +44,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"senpai",
-		"pj",
-		"oj"
-	],
+	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }

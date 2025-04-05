@@ -1,11 +1,11 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You are persistently infuriating... much like *them*."
+			"text": "Your insolence persists... just like theirs."
 		},
 		{
 			"speed": 0.05,
@@ -16,10 +16,17 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "ego",
+			"portrait": "oj",
 			"boxState": "normal",
+			"expression": "worried",
+			"text": "Babe, maybe don't antagonize the grieving deity?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "ego",
+			"boxState": "angry",
 			"expression": "talk",
-			"text": "YOU KNOW... NOTHING!"
+			"text": "YOU DARE?! YOU KNOW NOTHING OF LOSS!"
 		},
 		{
 			"speed": 0.05,
@@ -27,6 +34,13 @@
 			"boxState": "normal",
 			"expression": "confused",
 			"text": "Whoa, chill out, lady."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "See? Antagonized."
 		}
 	]
 }

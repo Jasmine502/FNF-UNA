@@ -5,28 +5,70 @@
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Your attempts are futile, child. It's quite amusing, really."
+			"text": "Still struggling? How... charming. Your futile hope is almost as amusing as his resistance." 
 		},
 		{
-			"speed": 0.05,
-			"portrait": "jaykakashi",
+			"speed": 0.1,
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "L-Leave... before I lose control..."
+			"expression": "worried",
+			"text": "Her voice... it's like needles... I can't... I remember..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "jaykakashi",
+			"boxState": "angry",
+			"expression": "intense",
+			"text": "A-Asteria... Jasmine... help..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Dad, snap out of it! Think about me! About Mum!"
+			"expression": "embarassed",
+			"text": "Dad! Hold on! Remember Mum! Remember us! Don't let her win!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hush, you insolent worm! Don't hold back, my pet."
+			"text": "Oh, he remembers his precious Star, child. Remembers how frail she was, how she faded. Just like your little resistance will." 
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And you, little blind thing... perhaps another round of 'therapy' is in order after this?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "oj",
+			"boxState": "angry",
+			"expression": "startled",
+			"text": "NO! STAY AWAY FROM ME!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "I'LL KILL YOU!"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "YOU... BITCH!"
+		},
+		{
+			"speed": 0.05, 
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hahahahaha! Such spirit! Crush it, my pet. Now."
 		}
 	]
 }

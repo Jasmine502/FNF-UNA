@@ -1,32 +1,53 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "bkyu",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "talk",
-			"text": "GOTTA.... B-B-B-B-B-BEEEEE CUTE!!!!"
+			"text": "MUST... B-B-B-BE... CUUUUTE! GOTTA BE CUTE! Flawless! PERFECT! ALWAYS!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Uhhh..."
+			"text": "Uhhh... You keep using that word. I do not think it means what you think it means."
 		},
 		{
 			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "She sounds like she's in pain. That 'cute' sounds... forced. Like a mask."
+		},
+		{
+			"speed": 0.04,
 			"portrait": "bkyu",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "SHUT UP AND S-S-SING!!!! "
+			"text": "MASK?! THIS IS ME! THE REAL ME! JUST SH-SHUT UP! SING! SING DAMMIT! MAKE THE NOISE STOP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Alright, alright! Don't glitch your circuits! Sheesh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just play along for now, babe."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "shy",
-			"text": "Right. Not much else to say here, I guess."
+			"text": "Got it..."
 		}
 	]
 }

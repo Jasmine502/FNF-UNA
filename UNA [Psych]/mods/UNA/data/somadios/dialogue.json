@@ -3,30 +3,51 @@
 		{
 			"speed": 0.05,
 			"portrait": "pj",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "shocked",
-			"text": "D-Dad?! What's going on with you?!"
+			"text": "D-Dad?! What's happening?! Why do you look like that?!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Jas... I feel her... that cold, empty feeling... It's..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "jaykakashi",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "Jasmine... you shouldn't have come."
+			"boxState": "angry",
+			"expression": "intense",
+			"text": "Girls... Run... She... controls..."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.05, 
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Your father has finally learned his place. As my pet."
+			"text": "Well, well. Look what Ego's little castaway dragged in. And you brought my... favorite broken plaything." 
+		},
+		{
+			"speed": 0.05, 
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tell me, little Camille... can you feel the despair radiating from your precious PJ's father? Does it remind you of anything?"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "startled",
+			"text": "N-No... Please... don't..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shy",
-			"text": "Nuh uh!"
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "Leave her ALONE, you monster! Dad! Fight it! Don't listen to her!"
 		}
 	]
 }

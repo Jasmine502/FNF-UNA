@@ -1,16 +1,20 @@
 {
 	"storyName": "B. KYU",
-	"difficulties": "",
+	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"parents-christmas",
+		"pj",
+		"oj"
+	],
 	"songs": [
 		[
 			"Hotter Than U",
@@ -40,10 +44,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"parents-christmas",
-		"pj",
-		"oj"
-	],
+	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }

@@ -4,29 +4,71 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Yo, for an incorporeal being who fades from memory, you're pretty sick at this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Yo, for an incorporeal being, you're pretty sick at this!"
+			"text": "You really do sound wonderful, Ghost. There's a lot of feeling in your voice."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "O-oh... Thank you!"
+			"text": "O-oh... Really? Thank you! Both of you!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's just... nice to share something... even if it won't last."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "We should totally make an album together!"
+			"expression": "shocked",
+			"text": "What won't last? We should totally make an album together! Ghost n' PJ! Feat. OJ!"
 		},
 		{
 			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "PJ, the curse... How would an album work if people forget?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Oh yeah... shoot. That sucks."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That sounds wonderful... truly. It's the nicest thing anyone's ever..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "But, yes. You see... I'm cursed. No matter how much fun we have, no matter how much you like me..."
+		},
+		{
+			"speed": 0.11,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "sad",
-			"text": "That sounds wonderful... But, you see..."
+			"text": "...eventually, you'll walk away, and it'll be like I never existed."
 		}
 	]
 }

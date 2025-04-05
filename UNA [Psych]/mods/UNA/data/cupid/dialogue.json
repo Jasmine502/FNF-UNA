@@ -18,8 +18,8 @@
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "Alright, don't get cocky, or I'mma sit you down."
+			"expression": "confused",
+			"text": "Alright, alright, don't get cocky, or I'mma sit you down."
 		},
 		{
 			"speed": 0.05,

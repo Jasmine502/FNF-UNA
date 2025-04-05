@@ -1,74 +1,109 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Mum... singing with you... it felt so real. Like you were right here."
+			"expression": "shy",
+			"text": "Mum... you're barely here now. Just ghostly lines and fading light."
 		},
 		{
-			"speed": 0.05,
-			"portrait": "asteria",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "It *was* real, for this moment. But the brightest stars eventually return to the cosmos, my love."
-		},
-		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "embarassed",
-			"text": "No! Please! Don't leave me again... It hurts too much!"
+			"expression": "shy",
+			"text": "Please don't go yet. Not when I still have so much to tell you."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My sweet child, I'm holding on by threads so thin they're breaking with each word."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can feel myself dissolving, becoming one with the emptiness between stars."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "How do I tell Dad that I held you one last time and couldn't save you?"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "How do I wake up tomorrow knowing you're truly gone?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "asteria",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Oh, my sweet Jasmine... I am always with you. Look up. That's where I'll be."
+			"text": "My darling girl, my greatest creation. You carry pieces of my soul in every breath you take."
 		},
-        {
+		{
 			"speed": 0.05,
 			"portrait": "asteria",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You carry my light now. *You* are the rising star. Your father... he needs your light too. Don't let him lose himself in the dark."
+			"text": "When grief crushes your chest and you can't breathe, look to the stars. I'll be in their light, watching over you both."
 		},
-        {
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My only regret is the lifetime of moments I'll miss. Your triumphs, your tears, the woman you'll become."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Promise me you won't let my absence diminish your light, Jasmine. Burn brighter because I couldn't stay."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "I promise, Mum. But God, it feels impossible without you."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "I'll try to be the star you always saw in me."
+		},
+		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "shy",
-			"text": "I love you, Mum. So much."
+			"text": "This last song... let it be our goodbye. Let it shine through these tears."
 		},
-        {
-			"speed": 0.04,
+		{
+			"speed": 0.07,
 			"portrait": "asteria",
 			"boxState": "normal",
 			"expression": "talk",
-            "text": "I love you infinitely, my PJ. More than every star in the sky. Now go. *Illuminate* everything."
+			"text": "My beautiful, brave daughter... even as I fade, your light illuminates everything."
 		},
-        {
-            "speed": 0.06,
-            "portrait": "asteria",
+		{
+			"speed": 0.07,
+			"portrait": "asteria",
 			"boxState": "normal",
 			"expression": "talk",
-            "text": "My only regret is that I won't be with you to see it all..."
-        },
-        {
-            "speed": 0.08,
-            "portrait": "asteria",
-			"boxState": "normal",
-			"expression": "talk",
-            "text": "...Shine..."
-        },
-        {
-			"speed": 0.03,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "Mum! NO! WAIT! COME BACK! Please... don't go..."
+			"text": "Let this final melody be my eternal lullaby. Sing me home, my little star."
 		}
 	]
 }

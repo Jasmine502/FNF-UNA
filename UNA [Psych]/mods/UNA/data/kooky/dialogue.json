@@ -5,28 +5,49 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Seriously, B. Kyu, you're not looking okay. Maybe you should, like, chill for a sec?"
+			"text": "Seriously, B. Kyu, this ain't it. You're glitching harder than my dad trying to use Etheforma. Maybe take five?"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bkyu",
+			"portrait": "oj",
 			"boxState": "normal",
+			"expression": "downcast",
+			"text": "Love... please. You created me from kindness. Where did that go? What did she do to you?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bkyu",
+			"boxState": "angry",
 			"expression": "talk",
-			"text": "Darling, I AM perfection! Remade! Reborn! STRONGER!"
+			"text": "KINDNESS?! Ugh, that pathetic weakness! I shed that! She made me PERFECT! Stronger! BETTER! I'm FINALLY whole!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Man... Ghost really wanted to help you out, y'know?"
+			"text": "Man... Ghost tried so hard to help you out, y'know? They wouldn't want this."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bkyu",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GHOST?! That... that NOTHING?! Help ME?! HA! I need nothing from that mistake!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bkyu",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I just need... MORE! MORE NOISE! MORE LIGHT! LET'S MAKE THIS WHOLE ROTTEN WORLD SCREAM! AND YOU TWO ARE FIRST!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bkyu",
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Help?! I don't need help! I need MORE! Let's just burn it ALL down! STARTING WITH YOU!"
+			"expression": "worried",
+			"text": "Jazzers, look out! She's lost it completely!"
 		}
 	]
 }

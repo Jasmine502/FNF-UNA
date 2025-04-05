@@ -5,28 +5,77 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Woah! This place is giving me the shits."
+			"text": "Whoa... babe, where even are we? This place is giving me the shits."
 		},
 		{
-			"speed": 0.02,
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It feels... quiet. Lonely. Definitely different from the rest of Dusphoros."
+		},
+		{
+			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "awkward",
-			"text": "I... sort of like it. You'll forget it anyway."
+			"text": "Oh! Um... visitors? You can... see this place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Yo! Didn't see you there! You blend right in, kinda spooky!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Huh? You wanna rap battle?"
+			"text": "Course we can see it! I'm PJ, this is OJ! Who're you?"
 		},
 		{
-			"speed": 0.02,
+			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Um... okay..."
+			"text": "I'm... Ghost. Welcome to Unmbra, I suppose. Not many people come here. Or... stay."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's nice to meet you, Ghost. It's certainly a unique town."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Ghost, huh? Fitting! Hey, since we're here... wanna rap battle?!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "A... rap battle? Like... singing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah! Best way to introduce yourself!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "I... I don't usually... Okay. Just for a little while, maybe."
 		}
 	]
 }

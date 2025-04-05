@@ -1,25 +1,81 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "asteria",
+			"speed": 0.06,
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "It's beautiful, isn't it? Like a memory drawn just for us. Hello, my star."
+			"expression": "embarrassed",
+			"text": "Mum... you're disappearing right in front of me. I can see through you now."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "embarrassed",
+			"text": "Your edges are blurring like ink in water and I can't stop it."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "pj",
+			"portrait": "asteria",
 			"boxState": "normal",
-			"expression": "embarassed",
-			"text": "But... how? You're... you're gone..."
+			"expression": "talk",
+			"text": "Even stars must burn out, Jasmine. My twilight has been coming for so long."
 		},
-        {
+		{
 			"speed": 0.05,
 			"portrait": "asteria",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Shhh. Let's not worry about that now. The blue hour... it's always been special. Let's just share this twilight? Another melody?"
+			"text": "The darkness gathers at my edges, drawing me into that final night."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "NO! I won't accept this! Not yet!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Mum, please fight it! I'll rip these pages out, I'll burn this whole damn book if I have to!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Some endings cannot be rewritten, my love. Even with all the fire in your heart."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The shadows lengthen for us all, eventually. Mine are simply reaching for me sooner."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "asteria",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's cherish this fading light between us. This beautiful, aching twilight."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "...Our twilight. God, it hurts to even say it."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "I'll stay with you until the very last glimmer fades, Mum. I promise."
 		}
 	]
 }

@@ -5,28 +5,105 @@
 			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "H-hi PJ! You're really amazing!"
+			"text": "H-hi PJ! OJ! You're both really amazing! It's fintastic to meet you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She sounds really sweet, PJ. And bubbly!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "'Preciate it, Fishy!"
+			"expression": "smug",
+			"text": "Right? 'Preciate it, Fishy! Ready to make some waves?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hehe! Ready to dive in?"
+			"text": "Hehe! You bet! Ready to dive in? Or are you feeling crabby?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Never! Let's make a splash! Time to sea what you got!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Oh cod, here we go..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amatheia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whale, whale, whale... looks like we're fishing for a battle!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "Let's make a splash!"
+			"text": "You better believe it! I'm gonna school you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can we just play already?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brooks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't be such a shrimp, Bas! This is fun! Any fin is possible!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amatheia",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah! Let's get kraken!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Okay, this is getting out of handfish..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Whoa... yeah... It's like... totally a wave... washing over... everything, man..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bas",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "FOR FUCK'S SAKE! CAN YOU ALL SHUT UP WITH THE STUPID PUNS?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bas",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "JUST. SING. THE. DAMN. SONG!"
 		}
 	]
 }

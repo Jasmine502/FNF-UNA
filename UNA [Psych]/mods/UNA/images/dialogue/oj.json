@@ -1,24 +1,102 @@
 {
 	"position": [
 		0,
-		100
+		90
 	],
 	"dialogue_pos": "center",
 	"scale": 1.25,
-	"image": "oj_dia_temp",
+	"image": "OJ_assets",
 	"animations": [
 		{
 			"idle_offsets": [
 				0,
-				-15
+				-17
 			],
 			"loop_offsets": [
 				0,
-				-15
+				-17
 			],
 			"anim": "talk",
-			"idle_name": "OJ dia0005",
-			"loop_name": "OJ dia"
+			"idle_name": "oj dia idle0029",
+			"loop_name": "oj dia idle"
+		},
+		{
+			"loop_offsets": [
+				-6,
+				-14
+			],
+			"anim": "startled",
+			"idle_offsets": [
+				-6,
+				-14
+			],
+			"loop_name": "oj dia fear",
+			"idle_name": "oj dia fear0029"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"anim": "explaining",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "oj dia left",
+			"idle_name": "oj dia left0014"
+		},
+		{
+			"idle_offsets": [
+				0,
+				-8
+			],
+			"anim": "downcast",
+			"loop_offsets": [
+				0,
+				-8
+			],
+			"idle_name": "oj dia down0019",
+			"loop_name": "oj dia down"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-9
+			],
+			"anim": "wry",
+			"idle_offsets": [
+				0,
+				-9
+			],
+			"loop_name": "oj dia right",
+			"idle_name": "oj dia right0014"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-10
+			],
+			"anim": "worried",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "oj dia sad",
+			"idle_name": "oj dia sad0014"
+		},
+		{
+			"loop_offsets": [
+				0,
+				-11
+			],
+			"anim": "questioning",
+			"idle_offsets": [
+				0,
+				-11
+			],
+			"loop_name": "oj dia up",
+			"idle_name": "oj dia up0006"
 		}
 	]
 }

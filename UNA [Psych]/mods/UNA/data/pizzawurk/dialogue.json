@@ -12,27 +12,41 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "smug",
-			"text": "Aww.... Old demon getting tired?"
+			"text": "Aww.... Old demon getting tired? Need your prune juice?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Is it nap time already, Dad-berus?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "pissed",
-			"text": "Hardly! You're such a piece of work, you know that?"
+			"expression": "cheeky",
+			"text": "Hardly! You two are such a piece of work, you know that?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "And I'll never change! Beep bap bap boop bop!"
+			"text": "And we'll never change! Beep bap bap boop bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He loves it really."
 		},
 		{
 			"speed": 1.00,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "talk",
 			"text": "..."
 		}
 	]

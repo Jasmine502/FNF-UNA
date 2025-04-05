@@ -1,37 +1,76 @@
 {
-	"position": [
-		120,
-		-70
-	],
 	"dialogue_pos": "left",
+	"position": [
+		100,
+		-50
+	],
 	"scale": 1.25,
-	"image": "jk_dia_temp",
 	"animations": [
 		{
-			"idle_offsets": [
-				0,
-				0
-			],
+			"anim": "talk",
 			"loop_offsets": [
 				0,
 				0
 			],
-			"anim": "talk",
-			"idle_name": "JK IDLE dia0003",
-			"loop_name": "JK IDLE dia"
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jk dia idle",
+			"idle_name": "jk dia idle0003"
 		},
 		{
 			"idle_offsets": [
 				0,
-				-10
+				0
 			],
-			"anim": "pissed",
+			"anim": "intense",
 			"loop_offsets": [
 				0,
+				0
+			],
+			"idle_name": "jk dia up0007",
+			"loop_name": "jk dia up"
+		},
+		{
+			"idle_offsets": [
+				-40,
+				-80
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-40,
+				-80
+			],
+			"idle_name": "jk dia down0003",
+			"loop_name": "jk dia down"
+		},
+		{
+			"loop_offsets": [
+				-20,
+				-20
+			],
+			"anim": "cheeky",
+			"idle_offsets": [
+				-20,
+				-20
+			],
+			"loop_name": "jk dia left0000",
+			"idle_name": "jk dia left0007"
+		},
+		{
+			"loop_name": "jk dia right",
+			"idle_offsets": [
+				-10,
 				-10
 			],
-			"idle_name": "JK RIGHT dia0003",
-			"loop_name": "JK RIGHT dia"
+			"idle_name": "jk dia right0003",
+			"anim": "pissed",
+			"loop_offsets": [
+				-10,
+				-10
+			]
 		}
-	]
+	],
+	"image": "jk_dia_temp"
 }

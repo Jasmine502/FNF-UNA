@@ -1,16 +1,20 @@
 {
 	"storyName": "BLRY",
-	"difficulties": "",
+	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "philly",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"pico",
+		"pj",
+		"oj"
+	],
 	"songs": [
 		[
 			"Woah",
@@ -49,10 +53,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"pico",
-		"pj",
-		"oj"
-	],
+	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }

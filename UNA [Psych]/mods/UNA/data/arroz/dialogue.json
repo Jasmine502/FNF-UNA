@@ -9,17 +9,31 @@
 		},
 		{
 			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They sound like they're having the time of their life."
+		},
+		{
+			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Hey, Bas! Rockin' more jackets than an onion has layers today!"
+			"text": "Hey, Bas! Nice outfit! Rockin' more jackets than an onion has layers today!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "Are onions known for wearing jackets?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bas",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Ugh... Can we just get this over with, please?"
+			"text": "Ugh... Can we get this over with already?"
 		},
 		{
 			"speed": 0.05,
@@ -29,7 +43,7 @@
 			"text": "I DON'T WANNA DO THE RI-"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.01,
 			"portrait": "bas",
 			"boxState": "normal",
 			"expression": "talk",
