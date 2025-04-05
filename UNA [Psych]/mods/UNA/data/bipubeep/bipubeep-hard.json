@@ -1072,6 +1072,7 @@
 		"events": [],
 		"player3": null,
 		"song": "Bipubeep",
+		"gameOverChar": "pj",
 		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,

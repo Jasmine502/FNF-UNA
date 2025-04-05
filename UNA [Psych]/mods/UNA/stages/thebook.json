@@ -1,0 +1,47 @@
+{
+	"camera_boyfriend": [
+		50,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "pj",
+		"gf": "oj",
+		"dad": "asteria"
+	},
+	"stageUI": "pixel",
+	"girlfriend": [
+		320,
+		100
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		290,
+		0
+	],
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.8,
+	"directory": "",
+	"opponent": [
+		-290,
+		-100
+	],
+	"camera_opponent": [
+		-100,
+		0
+	],
+	"hide_girlfriend": true
+}

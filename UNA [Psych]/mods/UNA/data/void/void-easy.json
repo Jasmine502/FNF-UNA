@@ -1,6 +1,7 @@
 {
 	"song": {
 		"player1": "ghost",
+		"gameOverChar": "ghost",
 		"sectionLengths": [],
 		"notes": [
 			{

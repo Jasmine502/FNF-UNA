@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "WOO! That was NUTS! Felt like my vocal cords were gonna fall off! That thing's faster than it looks!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "My ears are fucking ringing. That was... energetically chaotic."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dust_staff",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "Alert! Unit 15 is exhibiting pre-charge tachykinesia! It's agitated! Ma'am, cease the... vocalizations immediately!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "ryno",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "SNORT?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "ryno",
+			"boxState": "angry",
+			"expression": "charging",
+			"text": "HRRRRNNNGG!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Aw, look! It got stunned for a sec, just like in the game! But its aggro is back up! Round two, let's go!"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "downcast",
+			"text": "Right. 'Aggro'. Because this ancient, blind, charging behemoth definitely operates on game logic."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Just... try not to get impaled this time?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Don't worry OJ, I got this! Time to get serious!"
+		}
+	]
+}

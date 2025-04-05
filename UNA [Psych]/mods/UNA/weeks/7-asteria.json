@@ -1,24 +1,20 @@
 {
-	"storyName": "ASTERIA",
+	"storyName": "stargazing",
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "school",
+	"weekBefore": "6-bkyu",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"senpai",
-		"pj",
-		"oj"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"pain",
-			"senpai-pixel",
+			"asteria",
 			[
 				146,
 				113,
@@ -27,7 +23,7 @@
 		],
 		[
 			"twilight",
-			"senpai-pixel",
+			"asteria",
 			[
 				146,
 				113,
@@ -36,7 +32,7 @@
 		],
 		[
 			"illumina",
-			"senpai-pixel",
+			"asteria",
 			[
 				146,
 				113,
@@ -44,6 +40,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"asteria",
+		"",
+		"pj"
+	],
 	"weekName": "Custom Week"
 }

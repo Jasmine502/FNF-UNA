@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ego",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, Ghost! My new creation, another child, your Sister. Meet Love."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ego",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I realised what I did wrong when I made you... so I decided to give it another try and look, I fixed it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bkyu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello! It's so wonderful to meet you!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "awkward",
+			"text": "H-hello, Love."
+		},
+        {
+			"speed": 0.05,
+			"portrait": "ego",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Isn't she perfect? Filled with love, just as intended. Come, Love, you will help me make the people of Vaporia."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bkyu",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, Mother! Oh, Ghost, would you like some love too?"
+		},
+        {
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "No, I'm good. It is good to meet you. I must go though..."
+		},
+        {
+			"speed": 0.06,
+			"portrait": "ego",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't wander too far, Ghost. Stay where I can see you."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "(Wrong... fixed... I'm the problem...)"
+		}
+	]
+}

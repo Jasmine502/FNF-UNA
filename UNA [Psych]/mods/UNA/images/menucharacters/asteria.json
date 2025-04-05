@@ -1,0 +1,9 @@
+{
+	"idle_anim": "asteria_dia_temp.png",
+	"image": "asteria_dia_temp",
+	"position": [0, 0],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.75,
+	"confirm_anim": "asteria_dia_temp.png"
+}

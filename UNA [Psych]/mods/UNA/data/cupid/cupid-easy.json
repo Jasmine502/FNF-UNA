@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "pj",
 		"sectionLengths": [],
 		"events": [],
 		"gfVersion": "oj",
@@ -1499,6 +1499,7 @@
 		],
 		"player2": "jaykakashi",
 		"player3": null,
+		"gameOverChar": "pj",
 		"song": "Cupid",
 		"validScore": true,
 		"sections": 0,

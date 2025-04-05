@@ -1509,6 +1509,7 @@
 		"gfVersion": "oj",
 		"events": [],
 		"player3": null,
+		"gameOverChar": "pj",
 		"song": "Cupid",
 		"needsVoices": true,
 		"sections": 0,

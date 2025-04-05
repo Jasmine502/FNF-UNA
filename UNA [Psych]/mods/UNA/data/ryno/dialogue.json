@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.06,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "YO! OJ, LOOK! IS THAT RYNO... "
+		},
+		{
+			"speed": 0.035,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "LIKE... THE SUPER RARE ONE FROM MIST & STONE?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "Whoa... This one feels... intense. And kinda confused? Like a charging headache."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dust_staff",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Please maintain a safe distance, visitors. Unit 15, Ryno, can be highly unpredictable and aggressive."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Unpredictable? Awesome! High stats! Bet its bars hit harder than its charge! Let's GO!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "PJ, I don't think 'bars' are its primary concern right now... It feels like it's about to flatten something."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "ryno",
+			"boxState": "normal",
+			"expression": "scanning",
+			"text": "SNORT! STOMP. STOMP."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "See? It's challenging me!"
+		}
+	]
+}

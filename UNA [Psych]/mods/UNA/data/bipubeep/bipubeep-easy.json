@@ -1073,6 +1073,7 @@
 		"player3": null,
 		"song": "Bipubeep",
 		"needsVoices": true,
+		"gameOverChar": "pj",
 		"sections": 0,
 		"validScore": true,
 		"bpm": 124,

@@ -24515,6 +24515,7 @@
 		"chartVersion": "2",
 		"player3": null,
 		"song": "ARROZ",
+		"gameOverChar": "pj",
 		"needsVoices": true,
 		"sections": 0,
 		"validScore": true,

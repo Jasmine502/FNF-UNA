@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		30,
+		-140
+	],
+	"no_antialiasing": false,
+	"scale": 0.9,
+	"animations": [
+		{
+			"loop_name": "DUST Staff neutral",
+			"idle_offsets": [
+				-34,
+				-6
+			],
+			"idle_name": "DUST Staff neutral0009",
+			"anim": "neutral",
+			"loop_offsets": [
+				-34,
+				-6
+			]
+		},
+		{
+			"loop_name": "DUST Staff PANIC",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "DUST Staff PANIC0014",
+			"anim": "panic",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "dust dia"
+}
