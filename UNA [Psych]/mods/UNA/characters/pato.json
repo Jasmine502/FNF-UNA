@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [55, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pato idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [54, -28],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pato left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [66, -15],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pato down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [51, -14],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pato up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [48, -8],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pato right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/pato_assets",
+	"position": [100, 380],
+	"healthicon": "pato",
+	"flip_x": false,
+	"healthbar_colors": [39, 164, 44],
+	"camera_position": [-210, 80],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

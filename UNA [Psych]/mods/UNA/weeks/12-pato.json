@@ -1,0 +1,27 @@
+{
+	"storyName": "El Pato Funky",
+	"difficulties": "Easy, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "pato",
+	"weekBefore": "9-void",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"un pato loco",
+			"pato",
+			[
+				39,
+				162,
+				45
+			]
+		]
+	],
+	"weekCharacters": [
+		"pato",
+		"pj",
+		"oj"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

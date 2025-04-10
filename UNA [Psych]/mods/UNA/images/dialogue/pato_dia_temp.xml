@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pato_dia_temp.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pato down0000" x="20" y="20" width="314" height="333" frameX="0" frameY="0" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0001" x="354" y="20" width="320" height="323" frameX="-4" frameY="-10" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0002" x="694" y="20" width="326" height="310" frameX="-8" frameY="-23" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0003" x="1040" y="20" width="332" height="294" frameX="-12" frameY="-39" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0004" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0005" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0006" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0007" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0008" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0009" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0010" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0011" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0012" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato down0013" x="1392" y="20" width="336" height="276" frameX="-16" frameY="-57" frameWidth="352" frameHeight="333"/>
+	<SubTexture name="pato idle0000" x="20" y="373" width="306" height="321" frameX="0" frameY="-26" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0001" x="346" y="373" width="307" height="326" frameX="0" frameY="-21" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0002" x="673" y="373" width="307" height="330" frameX="0" frameY="-17" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0003" x="1000" y="373" width="308" height="334" frameX="0" frameY="-13" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0004" x="1328" y="373" width="308" height="337" frameX="0" frameY="-10" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0005" x="1656" y="373" width="307" height="340" frameX="0" frameY="-7" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0006" x="20" y="733" width="307" height="342" frameX="0" frameY="-5" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0007" x="347" y="733" width="307" height="344" frameX="0" frameY="-2" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0008" x="674" y="733" width="307" height="347" frameX="0" frameY="0" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0009" x="674" y="733" width="307" height="347" frameX="0" frameY="0" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0010" x="674" y="733" width="307" height="347" frameX="0" frameY="0" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0011" x="674" y="733" width="307" height="347" frameX="0" frameY="0" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0012" x="674" y="733" width="307" height="347" frameX="0" frameY="0" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato idle0013" x="674" y="733" width="307" height="347" frameX="0" frameY="0" frameWidth="308" frameHeight="347"/>
+	<SubTexture name="pato left0000" x="1001" y="733" width="265" height="316" frameX="0" frameY="-3" frameWidth="406" frameHeight="319"/>
+	<SubTexture name="pato left0001" x="1286" y="733" width="377" height="318" frameX="0" frameY="-1" frameWidth="406" frameHeight="319"/>
+	<SubTexture name="pato left0002" x="20" y="1100" width="391" height="319" frameX="0" frameY="0" frameWidth="406" frameHeight="319"/>
+	<SubTexture name="pato left0003" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0004" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0005" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0006" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0007" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0008" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0009" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0010" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0011" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0012" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0013" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0014" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0015" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0016" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0017" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0018" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0019" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0020" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0021" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0022" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato left0023" x="431" y="1100" width="406" height="319"/>
+	<SubTexture name="pato right0000" x="857" y="1100" width="314" height="342" frameX="0" frameY="0" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0001" x="1191" y="1100" width="312" height="333" frameX="-4" frameY="-9" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0002" x="1523" y="1100" width="342" height="323" frameX="-8" frameY="-19" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0003" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0004" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0005" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0006" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0007" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0008" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0009" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0010" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0011" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0012" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato right0013" x="20" y="1462" width="352" height="313" frameX="-13" frameY="-29" frameWidth="365" frameHeight="342"/>
+	<SubTexture name="pato up0000" x="392" y="1462" width="290" height="337"/>
+	<SubTexture name="pato up0001" x="702" y="1462" width="290" height="327" frameX="0" frameY="-10" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0002" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0003" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0004" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0005" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0006" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0007" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0008" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0009" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0010" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0011" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0012" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+	<SubTexture name="pato up0013" x="1012" y="1462" width="290" height="317" frameX="0" frameY="-20" frameWidth="290" frameHeight="337"/>
+</TextureAtlas>

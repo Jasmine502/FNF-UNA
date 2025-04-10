@@ -1,0 +1,32 @@
+{
+	"storyName": "my lost soul",
+	"difficulties": "Easy, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "7-asteria",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"void",
+			"mom",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"mom",
+		"littleghost",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

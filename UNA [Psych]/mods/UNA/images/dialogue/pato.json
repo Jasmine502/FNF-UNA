@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		110
+	],
+	"scale": 1.65,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pato idle0013",
+			"loop_name": "pato idle"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "focused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pato down0013",
+			"loop_name": "pato down"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sideeye",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pato left0023",
+			"loop_name": "pato left"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "idignant",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "pato up",
+			"idle_name": "pato up0013"
+		},
+		{
+			"loop_name": "pato right",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "pato right0013",
+			"anim": "glare",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "pato_dia_temp"
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "stargazing",
+	"difficulties": "Easy, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "thebook",
+	"weekBefore": "6-bkyu",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pain",
+			"asteria",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"twilight",
+			"asteria",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"illumina",
+			"asteria",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"asteria",
+		"",
+		"pj"
+	],
+	"weekName": "Custom Week"
+}

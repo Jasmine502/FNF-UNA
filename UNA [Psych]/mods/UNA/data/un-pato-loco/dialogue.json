@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Anyone seen a tall demon dude? Kinda grumpy, runs a music thingy?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pato",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "¿Qué buscan aquí, niñas? This is an official E.Y.E.S. facility, not a concert hall."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Whoa! Babe, check it out! A duck! With a little hat! And is that a knife?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "startled",
+			"text": "A duck...? With a knife? Maybe we shouldn't bother him, he sounds... official."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pato",
+			"boxState": "angry",
+			"expression": "indignant",
+			"text": "¡Pato! ¡Soy el Jefe Pato Guerrero! ¡Y esto no es un cuchillo cualquiera, es oficial!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pato",
+			"boxState": "angry",
+			"expression": "glare",
+			"text": "You are trespassing! State your business immediately or face removal. A la fuerza if necessary."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Removal...? PJ, he sounds serious. Let's just tell him we're looking for your dad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Nah, where's the fun in that? Escort sounds boring. How 'bout a rap battle instead, Chief Pato?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "A rap battle? Here? Are you sure that's appropriate? He is the Chief Officer..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pato",
+			"boxState": "normal",
+			"expression": "sideeye",
+			"text": "¿Un... rap battle? ¡Qué ridiculez! Do I look like I have time for childish games?"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "pato",
+			"boxState": "normal",
+			"expression": "focused",
+			"text": "Although... such spontaneous vocal challenges could reveal emotional tells... An unorthodox interrogation method perhaps. Hmph."
+		},
+ 		{
+			"speed": 0.05,
+			"portrait": "pato",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "¡Muy bien, mocosas! Let's see if your rhymes are sharper than my blade. ¡Prepárense!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ay ay ay, El Pato! Vamonos!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "downcast",
+			"text": "*Sigh*... Just... try not to get us arrested, okay babe?"
+		}
+	]
+}

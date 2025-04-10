@@ -30,7 +30,7 @@ function onCreate()
     setScrollFactor('pub_MG',0.9,0.9);
 
     -- bubble tube 
-    makeAnimatedLuaSprite('lamp','bar_stage/lamp_anim', x + 1800, y);
+    makeAnimatedLuaSprite('lamp','bar_stage/lamp_anim', x+1770, y);
     addLuaSprite('lamp',false);
     luaSpriteAddAnimationByPrefix('lamp','lamp','lamp',24,true);
     objectPlayAnimation('lamp','lamp',false);
