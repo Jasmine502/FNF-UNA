@@ -3,8 +3,14 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "pato",
-	"weekBefore": "9-void",
-	"startUnlocked": true,
+	"weekBefore": "07-asteria",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"pato",
+		"pj",
+		"oj"
+	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"un pato loco",
@@ -16,12 +22,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"pato",
-		"pj",
-		"oj"
-	],
-	"hideStoryMode": false,
-	"hiddenUntilUnlocked": false,
+	"hiddenUntilUnlocked": true,
 	"weekName": "Custom Week"
 }

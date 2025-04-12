@@ -3,14 +3,18 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "7-asteria",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekBefore": "07-asteria",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"mom",
+		"littleghost",
+		""
+	],
 	"songs": [
 		[
 			"void",
@@ -22,11 +26,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"mom",
-		"littleghost",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
 }

@@ -3,13 +3,13 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "philly",
-	"weekBefore": "tutorial",
+	"weekBefore": "02-lg",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"hideStoryMode": false,
 	"songs": [
 		[
@@ -54,5 +54,6 @@
 		"pj",
 		"oj"
 	],
+	"hiddenUntilUnlocked": true,
 	"weekName": "Custom Week"
 }

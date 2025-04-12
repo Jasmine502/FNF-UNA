@@ -3,14 +3,18 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekBefore": "05-jkb",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"parents-christmas",
+		"pj",
+		"oj"
+	],
 	"songs": [
 		[
 			"Hotter Than U",
@@ -40,10 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"parents-christmas",
-		"pj",
-		"oj"
-	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
 	"weekName": "Custom Week"
 }

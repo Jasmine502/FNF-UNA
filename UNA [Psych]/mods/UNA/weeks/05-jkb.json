@@ -3,18 +3,14 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
+	"weekBefore": "04-god",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"parents-christmas",
-		"pj",
-		"oj"
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Somadios",
@@ -44,6 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"parents-christmas",
+		"pj",
+		"oj"
+	],
+	"hiddenUntilUnlocked": true,
 	"weekName": "Custom Week"
 }

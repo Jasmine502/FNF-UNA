@@ -3,18 +3,14 @@
 	"difficulties": "Hard",
 	"hideFreeplay": false,
 	"weekBackground": "",
+	"weekBefore": "07-asteria",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "7-asteria",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"ryno",
-		"pj",
-		"oj"
-	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"RYNO",
@@ -35,7 +31,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": true
+	"weekCharacters": [
+		"ryno",
+		"pj",
+		"oj"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Custom Week"
 }

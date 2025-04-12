@@ -3,13 +3,13 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "thebook",
-	"weekBefore": "6-bkyu",
+	"weekBefore": "06-bkyu",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"hideStoryMode": false,
 	"songs": [
 		[
@@ -45,5 +45,6 @@
 		"",
 		"pj"
 	],
-	"weekName": "Custom Week"
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
 }

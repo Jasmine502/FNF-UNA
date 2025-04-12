@@ -8,8 +8,8 @@
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": true,
+	"weekBefore": "00-oj",
+	"startUnlocked": false,
 	"weekCharacters": [
 		"jaykakashi",
 		"pj",
@@ -45,5 +45,6 @@
 		]
 	],
 	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
 	"weekName": "Custom Week"
 }

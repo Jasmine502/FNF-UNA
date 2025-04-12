@@ -3,14 +3,18 @@
 	"difficulties": "Easy, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "halloween",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekBefore": "01-jk",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"littleghost",
+		"pj",
+		"oj"
+	],
 	"songs": [
 		[
 			"ghostling",
@@ -40,10 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"littleghost",
-		"pj",
-		"oj"
-	],
-	"weekName": "Custom Week"
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
 }

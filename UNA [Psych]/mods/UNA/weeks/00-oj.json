@@ -1,5 +1,5 @@
 {
-	"storyName": "oj",
+	"storyName": "emotions",
 	"difficulties": "Easy",
 	"hideFreeplay": false,
 	"weekBackground": "hap",
@@ -14,11 +14,11 @@
 	"songs": [
 		[
 			"hap",
-			"oj",
+			"jaykakashi",
 			[
-				124,
-				60,
-				52
+				20,
+				43,
+				100
 			]
 		]
 	],
@@ -27,5 +27,6 @@
 		"pj",
 		"oj"
 	],
+	"hiddenUntilUnlocked": false,
 	"weekName": "Custom Week"
 }
