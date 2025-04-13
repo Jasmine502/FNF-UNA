@@ -5,21 +5,21 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "YO! OJ, LOOK! IS THAT RYNO... "
+			"text": "YO! OJ, LOOK! IS THAT RYNO... LIKE... THE SUPER RARE ONE FROM MIST & STONE?!"
 		},
 		{
-			"speed": 0.035,
+			"speed": 0.045,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "LIKE... THE SUPER RARE ONE FROM MIST & STONE?!"
+			"expression": "shocked",
+			"text": "Wait a sec... it looks exactly like the one I drew in The Book! It's real?!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "questioning",
-			"text": "Whoa... This one feels... intense. And kinda confused? Like a charging headache."
+			"text": "Real and... intense. Feels kinda confused? Like a charging headache. PJ, you drew this thing?"
 		},
 		{
 			"speed": 0.055,
