@@ -2,59 +2,66 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "brooks",
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yooo! BLRY in the house! Long time no see, guys!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "PJ! OJ! It's so good to see you both! We've missed you!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Woah! You're Big X's daughter, right? Sick mic!"
+			"text": "Woah... the whole crew's back together. That's pretty cool."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Thanks, man! Love the bucket you're rocking!"
+			"expression": "talk",
+			"text": "You know it! Babe, check it, the man himself! Still rockin' the ol' war bucket, I see!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "questioning",
-			"text": "Wait, really? He's wearing a bucket on his head?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Yeah! It's awesome!"
+			"text": "The... 'war bucket'? I thought we agreed it was a 'tactical pail'."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "brooks",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "It's my Granddad's war helmet! Cool, huh?"
+			"text": "It's a legendary artifact! A symbol of our struggle! A beacon of... bucket-ness!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "oj",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "A war helmet bucket... Okay, The Liar sounds interesting."
+			"expression": "cheeky",
+			"text": "Whatever you say, BucketBoy! Still looks like a bucket to me!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "brooks",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Alright PJ, you tryna go bar-for-bar?"
+			"expression": "excited",
+			"text": "Alright, alright! Enough about the drip! You still got that fire, PJ? Been way too long since we jammed!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "You bet! Bring it on, BucketBoy!"
+			"text": "You know I do, BB! Step up, let's see if you can still hang!"
 		}
 	]
 }

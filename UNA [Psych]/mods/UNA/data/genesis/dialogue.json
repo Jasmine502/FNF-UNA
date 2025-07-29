@@ -5,35 +5,49 @@
 			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Perhaps... if you witnessed the beginning... you might comprehend a fraction of this agony."
+			"text": "You still don't understand. You see my ruin, but not the reason."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Finally! I hate guessing games."
+			"text": "Understand what?! What are you even doing?!"
 		},
 		{
-			"speed": 0.07,
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "PJ... something's wrong. The ground is gone. The air... it feels... empty. So cold."
+		},
+		{
+			"speed": 0.05,
 			"portrait": "ego",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Come then. Witness the genesis... the world's first reality."
+			"expression": "annoyed",
+			"text": "I am showing you everything! The loneliness... the darkness... before there was anything but ME!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "shy",
-			"text": "Not like I have a choice, right?"
+			"expression": "shocked",
+			"text": "Holy shit... Is this... The Void?"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "downcast",
-			"text": "Probably not..."
+			"text": "I... I can't feel anything. It's just... nothingness."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ego",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Precisely. Now... you will feel what I felt. Let us begin."
 		}
 	]
 }

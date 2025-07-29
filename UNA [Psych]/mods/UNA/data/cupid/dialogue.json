@@ -5,28 +5,42 @@
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Not bad, PJ. Wasn't expecting that level of skill from you."
+			"text": "Not bad, Starlight. You've definitely got your mother's ear for a melody."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "smug",
-			"text": "Well, I get it all from Mum."
+			"text": "Heh! Told ya! Guess that makes you the... second-best artist in the family?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "Alright, alright, don't get cocky, or I'mma sit you down."
+			"expression": "cheeky",
+			"text": "Don't get ahead of yourself. I'm still the one signing the cheques."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
+			"expression": "excited",
+			"text": "Psh, details, details! Come on, run it back! I'm on a roll!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "LOL"
+			"text": "Fine. But let's switch it up. This one... is for your mother."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Aww... pops! Okay, okay! For Mum! Let's do this!"
 		}
 	]
 }

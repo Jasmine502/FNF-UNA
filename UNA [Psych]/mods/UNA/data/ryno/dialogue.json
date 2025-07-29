@@ -1,46 +1,39 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.06,
+			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "YO! OJ, LOOK! IS THAT RYNO... LIKE... THE SUPER RARE ONE FROM MIST & STONE?!"
-		},
-		{
-			"speed": 0.045,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "Wait a sec... it looks exactly like the one I drew in The Book! It's real?!"
+			"text": "YO! OJ, LOOK! IS THAT RYNO?! THE ASTRAL-TIER UNAMON FROM MIST & STONE?!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "questioning",
-			"text": "Real and... intense. Feels kinda confused? Like a charging headache. PJ, you drew this thing?"
+			"expression": "worried",
+			"text": "It feels... big. And angry. Like a headache that's about to charge you. The ground is shaking a little."
 		},
 		{
 			"speed": 0.055,
 			"portrait": "dust_staff",
 			"boxState": "normal",
 			"expression": "neutral",
-			"text": "Please maintain a safe distance, visitors. Unit 15, Ryno, can be highly unpredictable and aggressive."
+			"text": "Ma'am, please stay behind the safety line! Astral Unit #15 is not a tourist attraction! It's extremely volatile!"
 		},
 		{
-			"speed": 0.04,
+			"speed": 0.045,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Unpredictable? Awesome! High stats! Bet its bars hit harder than its charge! Let's GO!"
+			"expression": "shocked",
+			"text": "Wait... Unit #15... that goofy rhino I doodled in The Book... That's... that's HIM?! No way!"
 		},
 		{
 			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "worried",
-			"text": "PJ, I don't think 'bars' are its primary concern right now... It feels like it's about to flatten something."
+			"text": "You... doodled the creature that's making the continent shake? PJ, what did you do?"
 		},
 		{
 			"speed": 0.07,
@@ -50,11 +43,25 @@
 			"text": "SNORT! STOMP. STOMP."
 		},
 		{
-			"speed": 0.045,
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "See?! It's doing its pre-battle animation! Just like in the game! He's challenging me!"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "dust_staff",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Ma'am, that is an aggression display! It's not an 'animation'!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "angry",
 			"expression": "excited",
-			"text": "See? It's challenging me!"
+			"text": "LET'S DANCE, YA BIG BLIND CHARGER!"
 		}
 	]
 }

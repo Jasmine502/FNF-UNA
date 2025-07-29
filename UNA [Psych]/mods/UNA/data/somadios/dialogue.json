@@ -5,49 +5,63 @@
 			"portrait": "pj",
 			"boxState": "angry",
 			"expression": "shocked",
-			"text": "D-Dad?! What's happening?! Why do you look like that?!"
+			"text": "D-Dad?! What's happening?! What did she do to you?!"
 		},
 		{
 			"speed": 0.07,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "worried",
-			"text": "Jas... I feel her... that cold, empty feeling... It's..."
+			"text": "PJ... that feeling... that familiar darkness... It's her."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "xerberus",
+			"boxState": "angry",
+			"expression": "intense",
+			"text": "Starlight... Get... OUT... She's... in my head..."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "jaykakashi",
-			"boxState": "angry",
-			"expression": "intense",
-			"text": "Girls... Run... She... controls..."
-		},
-		{
-			"speed": 0.05, 
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Well, well. Look what Ego's little castaway dragged in. And you brought my... favorite broken plaything." 
+			"text": "Well, well. Look what the little star-child dragged in."
 		},
 		{
-			"speed": 0.05, 
+			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Tell me, little Camille... can you feel the despair radiating from your precious PJ's father? Does it remind you of anything?"
+			"text": "And she brought my favorite broken toy along for the ride."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tell me, little demon... does the sound of his pain remind you of the day you lost your eyes?"
 		},
 		{
 			"speed": 0.07,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "startled",
-			"text": "N-No... Please... don't..."
+			"text": "N-no... get away from me..."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "angry",
 			"expression": "shocked",
-			"text": "Leave her ALONE, you monster! Dad! Fight it! Don't listen to her!"
+			"text": "Get away from her, you bitch! Dad, snap out of it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Oh, he'll snap. But not in the way you're hoping. Sing for them, my pet."
 		}
 	]
 }

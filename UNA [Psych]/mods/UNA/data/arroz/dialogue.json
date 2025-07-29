@@ -2,45 +2,45 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "bas",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hm..."
+			"expression": "tired",
+			"text": "Gah... whew... okay... Dustin, your cosmic waves... kicked my ass..."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "oj",
+			"portrait": "amy",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "They sound like they're having the time of their life."
+			"text": "Are you okay, PJ? You look exhausted! Maybe we should take a break?"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tired already? Pathetic. My turn."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Hey, Bas! Nice outfit! Rockin' more jackets than an onion has layers today!"
+			"text": "Tired?! Psh! Never! Just... catching my breath! Your turn? Bring it, walking puffer jacket!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "oj",
+			"portrait": "brooks",
 			"boxState": "normal",
-			"expression": "questioning",
-			"text": "Are onions known for wearing jackets?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bas",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Ugh... Can we get this over with already?"
+			"expression": "excited",
+			"text": "Ooooh, PJ, you messed up now! You know what happens when they play this one!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "I DON'T WANNA DO THE RI-"
+			"expression": "shocked",
+			"text": "Wait, wait, not this one! I DON'T WANNA DO THE RI-"
 		},
 		{
 			"speed": 0.01,

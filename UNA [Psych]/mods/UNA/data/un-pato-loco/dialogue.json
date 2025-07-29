@@ -4,15 +4,15 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "confused",
+			"expression": "talk",
 			"text": "Anyone seen a tall demon dude? Kinda grumpy, runs a music thingy?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pato",
-			"boxState": "normal",
-			"expression": "neutral",
-			"text": "¿Qué buscan aquí, niñas? This is an official E.Y.E.S. facility, not a concert hall."
+			"boxState": "angry",
+			"expression": "indignant",
+			"text": "¡Silencio! ¡Están en presencia del jefe Pato de la E.Y.E.S.! ¡Muestren algo de respeto o se enfrentarán a la ira de mi placa!"
 		},
 		{
 			"speed": 0.05,
@@ -26,70 +26,77 @@
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "startled",
-			"text": "A duck...? With a knife? Maybe we shouldn't bother him, he sounds... official."
+			"text": "A duck...? With a knife? PJ, he sounds really angry. Maybe we should just go."
 		},
 		{
 			"speed": 0.045,
 			"portrait": "pato",
 			"boxState": "angry",
 			"expression": "indignant",
-			"text": "¡Pato! ¡Soy el Jefe Pato Guerrero! ¡Y esto no es un cuchillo cualquiera, es oficial!"
+			"text": "¡SOY EL JEFE PATO GUERRERO! ¡Y esto no es un 'cuchillito', es un instrumento de justicia!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "pato",
-			"boxState": "angry",
-			"expression": "glare",
-			"text": "You are trespassing! State your business immediately or face removal. A la fuerza if necessary."
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Aww, look babe, he's getting all puffed up! He's like 'Quack quack, I'm the law!'"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "worried",
-			"text": "Removal...? PJ, he sounds serious. Let's just tell him we're looking for your dad."
+			"text": "I really don't think he's playing, PJ. He sounds like he's about to... enforce something."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pato",
+			"boxState": "angry",
+			"expression": "glare",
+			"text": "¡Indiquen su propósito aquí inmediatamente o serán removidas por la fuerza!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "smug",
-			"text": "Nah, where's the fun in that? Escort sounds boring. How 'bout a rap battle instead, Chief Pato?"
+			"text": "Alright, alright, fine! You win the quacking contest! How 'bout a real challenge? Rap battle. You and me. Right now."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "questioning",
-			"text": "A rap battle? Here? Are you sure that's appropriate? He is the Chief Officer..."
+			"text": "A rap battle? With the... angry, knife-wielding duck-officer? Are you trying to get us arrested?!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pato",
 			"boxState": "normal",
 			"expression": "sideeye",
-			"text": "¿Un... rap battle? ¡Qué ridiculez! Do I look like I have time for childish games?"
+			"text": "¿Un duelo de rap? ¡Qué ridiculez! ¿Parezco tener tiempo para juegos de niñas?"
 		},
 		{
 			"speed": 0.055,
 			"portrait": "pato",
 			"boxState": "normal",
 			"expression": "focused",
-			"text": "Although... such spontaneous vocal challenges could reveal emotional tells... An unorthodox interrogation method perhaps. Hmph."
+			"text": "Aunque... un desafío vocal tan espontáneo podría revelar indicios emocionales... Un método de interrogación poco ortodoxo, quizás. Hmph."
 		},
- 		{
+		{
 			"speed": 0.05,
 			"portrait": "pato",
 			"boxState": "normal",
 			"expression": "neutral",
-			"text": "¡Muy bien, mocosas! Let's see if your rhymes are sharper than my blade. ¡Prepárense!"
+			"text": "¡Muy bien, mocosas! ¡Acepto su desafío! ¡Veamos si sus rimas son más afiladas que mi hoja!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "Ay ay ay, El Pato! Vamonos!"
+			"text": "YES! I knew you'd be down! Let's go, Chief Quackers!"
 		},
 		{
 			"speed": 0.05,

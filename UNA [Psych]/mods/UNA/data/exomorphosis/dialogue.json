@@ -5,42 +5,49 @@
 			"portrait": "ego",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Your insolence persists... just like theirs."
+			"text": "That sound... It's hollow. All flash, no heart. Just like her."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Yo! Bet I'm stronger than you right now!"
+			"text": "Her? Don't know who you're on about. But my sound is fire! You look like one strong breeze away from becoming a puddle."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "worried",
-			"text": "Babe, maybe don't antagonize the grieving deity?"
+			"text": "PJ, stop. Can't you feel it? The pain coming off her... it's overwhelming."
 		},
 		{
 			"speed": 0.03,
 			"portrait": "ego",
 			"boxState": "angry",
 			"expression": "talk",
-			"text": "YOU DARE?! YOU KNOW NOTHING OF LOSS!"
+			"text": "PAIN?! YOU DARE SPEAK TO ME OF PAIN?! I GAVE EVERYTHING TO CREATE PERFECTION, ONLY TO WATCH IT ROT INTO HATE!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ego",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "This... this decay... this is the price of a mother's failure. A metamorphosis into grief itself."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "Whoa, chill out, lady."
+			"expression": "shy",
+			"text": "A... mother's failure? I... I get that."
 		},
 		{
-			"speed": 0.05,
-			"portrait": "oj",
+			"speed": 0.06,
+			"portrait": "ego",
 			"boxState": "normal",
-			"expression": "wry",
-			"text": "See? Antagonized."
+			"expression": "annoyed",
+			"text": "You get nothing. You were meant to be the moral compass, Super. Not a vessel for cheap sympathy."
 		}
 	]
 }

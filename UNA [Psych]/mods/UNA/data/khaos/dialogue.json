@@ -2,7 +2,7 @@
 	"dialogue": [
 		{
 			"speed": 0.1,
-			"portrait": "jaykakashi",
+			"portrait": "xerberus",
 			"boxState": "angry",
 			"expression": "intense",
 			"text": "ROAAAARRRRR!!!!!!!"
@@ -19,42 +19,63 @@
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Ah, the symphony of my creation breaking! Isn't it exquisite?" 
+			"text": "Ah, the symphony of my creation finally breaking. Isn't it exquisite?"
 		},
 		{
 			"speed": 0.04,
 			"portrait": "pj",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "shocked",
-			"text": "Dad! Please! You're hurting her! You're hurting everyone!"
+			"text": "Dad! Please! You're hurting her! You're hurting both of us!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Pain is merely a prelude to submission, little star. He is almost mine completely."
+			"text": "Pain is merely a prelude to submission, little star. He is almost entirely mine."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "embarassed",
-			"text": "N-No! I won't let you! Even if... even if you're this strong..."
+			"expression": "embarrassed",
+			"text": "N-No! I won't let you! He's my DAD! He's stronger than you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Is he? All I hear is a broken man crying out for a dead star."
 		},
 		{
 			"speed": 0.1,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "downcast",
-			"text": "...run, PJ... save yourself..."
+			"text": "...run, PJ... please... save yourself..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "I'm not leaving him! And I'm not leaving you!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "There's nowhere left to run. Welcome... to *my* chaos."
+			"text": "How touching. A family reunion at the end of the world."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "id",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm bored. Let's make this quick."
 		}
 	]
 }

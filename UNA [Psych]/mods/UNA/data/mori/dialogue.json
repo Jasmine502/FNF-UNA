@@ -5,70 +5,70 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Yo, for an incorporeal being who fades from memory, you're pretty sick at this!"
+			"text": "Yo, for a ghost who gets auto-deleted from everyone's memory, you got some serious pipes!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You really do sound wonderful, Ghost. There's a lot of feeling in your voice."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "littleghost",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "O-oh... Really? Thank you! Both of you!"
+			"text": "You really do sound wonderful, Ghost. There's so much emotion in your voice."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "It's just... nice to share something... even if it won't last."
+			"expression": "excited",
+			"text": "Oh... really? Thank you. I... I've never had anyone to sing with before."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "This is the most fun I've had... maybe ever."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "What won't last? We should totally make an album together! Ghost n' PJ! Feat. OJ!"
+			"expression": "excited",
+			"text": "Dude, we gotta capture this! We could make a whole album! 'The Unforgettable Ghost!' It'd be sick!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "explaining",
-			"text": "PJ, the curse... How would an album work if people forget?"
+			"text": "PJ... what good is an 'Unforgettable' album... if everyone forgets the artist?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "shy",
-			"text": "Oh yeah... shoot. That sucks."
+			"text": "Oh... right. Shit. That really, really sucks."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "That sounds wonderful... truly. It's the nicest thing anyone's ever..."
+			"text": "That... that's the kindest thing anyone's ever offered me."
 		},
 		{
 			"speed": 0.08,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "awkward",
-			"text": "But, yes. You see... I'm cursed. No matter how much fun we have, no matter how much you like me..."
+			"expression": "sad",
+			"text": "Even if it's impossible... it means everything that you wanted to."
 		},
 		{
-			"speed": 0.11,
+			"speed": 0.1,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "sad",
-			"text": "...eventually, you'll walk away, and it'll be like I never existed."
+			"expression": "shy",
+			"text": "So... before you go... can we sing one last song? A memory, just for us?"
 		}
 	]
 }

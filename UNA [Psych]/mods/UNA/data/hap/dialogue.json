@@ -15,7 +15,7 @@
 			"text": "Babe, check this place! You seein' how this SICK neon pink light is like, BOUNCING off the... weird sticky walls? Kinda wild!"
 		},
 		{
-			"speed": 1.5, 
+			"speed": 1.5,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
@@ -29,11 +29,11 @@
 			"text": "Babe? You zoning out on me? It's pretty rad, right? Makes everything look kinda... toxic chic?"
 		},
 		{
-			"speed": 0.05, 
+			"speed": 0.055,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "wry",
-			"text": "Yes, PJ. I 'see' the aggressively pink, pulsing light bouncing off the questionable, likely flammable, decor... perfectly."
+			"text": "I can hear the buzzing from the lights. And I can smell... whatever is making the walls sticky. I'm sure it's very pink."
 		},
 		{
 			"speed": 0.04,
@@ -47,7 +47,7 @@
 			"portrait": "pj",
 			"boxState": "angry",
 			"expression": "embarrassed",
-			"text": "I TOTALLY BLANKED! AGAIN! GAH! SO SORRY BABE! I'M SUCH A DUMBASS!"
+			"text": "I TOTALLY BLANKED! AGAIN! GAH! SO SORRY BABE! I'M SUCH A DUMB BITCH!"
 		},
 		{
 			"speed": 0.05,
@@ -61,21 +61,21 @@
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Deep breaths, space cadet. Nobody hates you. It's... endearing. In a chaotic, occasionally frustrating way."
+			"text": "It's alright, PJ. Breathe. I know. It's chaotic, but it's you. I wouldn't change it."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "wry",
-			"text": "Now, you done having your meltdown? Let's just sing. Any more vivid descriptions from you and *I* might short-circuit."
+			"text": "Are you calm now? Let's do what we came for. You can describe the song to me instead."
 		},
 		{
-			"speed": 0.05, 
+			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Right! Yeah! Singing! Good plan! Wouldn't wanna fry your circuits, babe! Let's fuckin' do it!"
+			"text": "Right! Yeah! Singing! I can do that! I'll describe it with my sick flow! Let's fuckin' do it!"
 		}
 	]
 }

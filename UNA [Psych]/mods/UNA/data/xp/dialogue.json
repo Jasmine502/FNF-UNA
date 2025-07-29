@@ -12,10 +12,17 @@
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "questioning",
-			"text": "He sounds... floaty. Is he floating?"
+			"text": "He sounds... floaty. Is that a drug thing or a him thing?"
 		},
 		{
-			"speed": 0.10,
+			"speed": 0.07,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's a him thing."
+		},
+		{
+			"speed": 0.1,
 			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
@@ -26,21 +33,35 @@
 			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Yeah... like... listen close... the stars are totally singing tonight..."
-		},
-		{
-			"speed": 0.01,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
+			"text": "Listen close... the stars are totally singing tonight..."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "oj",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "wry",
-			"text": "Think we lost him to the cosmos."
+			"expression": "excited",
+			"text": "Oh for real?! Show us what they sound like, man! Lay it down!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah... a'ight. The stars... they're vibin' to this one."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's like... a whole new level of experience, you know?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "LET'S GET IT, CAPTAIN!"
 		},
 		{
 			"speed": 0.05,

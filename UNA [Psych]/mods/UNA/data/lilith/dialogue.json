@@ -5,18 +5,18 @@
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Still struggling? How... charming. Your futile hope is almost as amusing as his resistance." 
-		},
-		{
-			"speed": 0.1,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "worried",
-			"text": "Her voice... it's like needles... I can't... I remember..."
+			"text": "Still struggling? How... charming. Your futile hope is almost as amusing as his resistance."
 		},
 		{
 			"speed": 0.08,
-			"portrait": "jaykakashi",
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Her voice... it's like acid... digging into my head. I can feel her smiling."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "xerberus",
 			"boxState": "angry",
 			"expression": "intense",
 			"text": "A-Asteria... Jasmine... help..."
@@ -25,22 +25,22 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "embarassed",
-			"text": "Dad! Hold on! Remember Mum! Remember us! Don't let her win!"
+			"expression": "embarrassed",
+			"text": "Dad, listen to me! Fight her! Remember Mum! Remember what she'd want you to do!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Oh, he remembers his precious Star, child. Remembers how frail she was, how she faded. Just like your little resistance will." 
+			"text": "Oh, he remembers his precious Star, child. Remembers how frail she was, how she faded. Just like your resistance will."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "And you, little blind thing... perhaps another round of 'therapy' is in order after this?"
+			"text": "And as for you, Love's little creation... perhaps a reunion with your old 'therapist' is in order?"
 		},
 		{
 			"speed": 0.03,
@@ -50,25 +50,18 @@
 			"text": "NO! STAY AWAY FROM ME!"
 		},
 		{
-			"speed": 0.03,
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "angry",
 			"expression": "shocked",
-			"text": "I'LL KILL YOU!"
+			"text": "I WILL TEAR YOU THE FUCK APART!"
 		},
 		{
-			"speed": 0.1,
-			"portrait": "pj",
-			"boxState": "angry",
-			"expression": "shocked",
-			"text": "YOU... BITCH!"
-		},
-		{
-			"speed": 0.05, 
+			"speed": 0.05,
 			"portrait": "id",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Hahahahaha! Such spirit! Crush it, my pet. Now."
+			"expression": "cheeky",
+			"text": "Hahahaha! Such fire! The spitting image of her mother. Now, Xerberus. Erase it."
 		}
 	]
 }

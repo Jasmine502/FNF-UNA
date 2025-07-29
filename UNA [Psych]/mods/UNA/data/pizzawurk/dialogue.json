@@ -2,52 +2,66 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "jaykakashi",
+			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Getting better. But you still have a long way to go."
+			"text": "That was... really beautiful. I could feel it."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "smug",
-			"text": "Aww.... Old demon getting tired? Need your prune juice?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "wry",
-			"text": "Is it nap time already, Dad-berus?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "jaykakashi",
-			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Hardly! You two are such a piece of work, you know that?"
+			"expression": "talk",
+			"text": "For real, pops. Mum would've loved that."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "And we'll never change! Beep bap bap boop bop!"
+			"text": "But we ain't done yet! One more! The decider!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "oj",
+			"portrait": "jaykakashi",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "He loves it really."
+			"expression": "cheeky",
+			"text": "Hah. You're a real piece of work, you know that?"
 		},
 		{
-			"speed": 1.00,
+			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "..."
+			"text": "Alright, you asked for it. No more holding back. Let's see what you've really got."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "HELL YEAH! THAT'S WHAT I'M TALKIN' ABOUT! FULL POWER!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "I think I'm going to stand back a bit for this one."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good call. Ready, Starlight?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "BORN READY! LET'S GOOOOO!"
 		}
 	]
 }
