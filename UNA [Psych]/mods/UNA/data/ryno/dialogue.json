@@ -1,67 +1,102 @@
 {
 	"dialogue": [
 		{
+			"speed": 0.04,
+			"portrait": "dust",
+			"boxState": "normal",
+			"expression": "panic",
+			"text": "Doctor, we have visual! Subject #015 is on the move in the South Lands and-"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "ryno",
+			"boxState": "angry",
+			"expression": "neutral",
+			"text": "GRRROOOOAAAA..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "ryno",
+			"boxState": "normal",
+			"expression": "scanning",
+			"text": "THUMP... THUMP..."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Ouch! What is that noise, babe? You overdosing on spicy ramen again?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "HOLY. SHIT. IT'S NOT MY STOMACH, BABE. IT'S..."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dust",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "Asset #015 is now approaching... two unidentified civilians?! Wait, is that the demon's kid?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dust",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "MA'AM AND OTHER MA'AM, PLEASE BACK AWAY FROM THE UNAMON!"
+		},
+		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "YO! OJ, LOOK! IS THAT RYNO?! THE ASTRAL-TIER UNAMON FROM MIST & STONE?!"
+			"text": "My sweet summer child. He's beautiful."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.07,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "worried",
-			"text": "It feels... big. And angry. Like a headache that's about to charge you. The ground is shaking a little."
+			"expression": "questioning",
+			"text": "That's the rhino you doodled in The Book?"
 		},
 		{
 			"speed": 0.055,
-			"portrait": "dust_staff",
-			"boxState": "normal",
-			"expression": "neutral",
-			"text": "Ma'am, please stay behind the safety line! Astral Unit #15 is not a tourist attraction! It's extremely volatile!"
-		},
-		{
-			"speed": 0.045,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "shocked",
-			"text": "Wait... Unit #15... that goofy rhino I doodled in The Book... That's... that's HIM?! No way!"
+			"expression": "embarrassed",
+			"text": "Yeah... wait, shit. We're not supposed to sa-"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "ryno",
+			"boxState": "normal",
+			"expression": "charging",
+			"text": "HNNGGGG! *SNORT!*"
 		},
 		{
 			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "worried",
-			"text": "You... doodled the creature that's making the continent shake? PJ, what did you do?"
+			"text": "Baaabeee... He sounds like he's... gonna charge at you..."
 		},
 		{
-			"speed": 0.07,
-			"portrait": "ryno",
-			"boxState": "normal",
-			"expression": "scanning",
-			"text": "SNORT! STOMP. STOMP."
-		},
-		{
-			"speed": 0.04,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "See?! It's doing its pre-battle animation! Just like in the game! He's challenging me!"
-		},
-		{
-			"speed": 0.055,
-			"portrait": "dust_staff",
-			"boxState": "normal",
-			"expression": "neutral",
-			"text": "Ma'am, that is an aggression display! It's not an 'animation'!"
-		},
-		{
-			"speed": 0.04,
+			"speed": 0.03,
 			"portrait": "pj",
 			"boxState": "angry",
-			"expression": "excited",
-			"text": "LET'S DANCE, YA BIG BLIND CHARGER!"
+			"expression": "cheeky",
+			"text": "LUCKILY I'VE NEVER LOST A GAME OF CHICKEN!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dust",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "PLEASE DO NOT PLAY CHICKEN WITH THE ASTRAL UNAMON."
 		}
 	]
 }

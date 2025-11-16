@@ -5,42 +5,91 @@
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Not bad, Starlight. You've definitely got your mother's ear for a melody."
+			"text": "Not bad, starlight."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Woo! Y'all popped off!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Fuck yeah we did! Thanks for the emotional support, bae."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Any time, cutie."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was quite the... \"pop-off.\" But must you swear in almost every sentence, PJ?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "smug",
-			"text": "Heh! Told ya! Guess that makes you the... second-best artist in the family?"
+			"expression": "cheeky",
+			"text": "Yes."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "It's her dialect. Besides, isn't that a bit ironic to ask as we are... y'know...."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "...demons?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "OOOOOOHHHHH GOTEEM!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Don't get ahead of yourself. I'm still the one signing the cheques."
+			"text": "...Touché. Let's fucking do this."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "pj",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "excited",
-			"text": "Psh, details, details! Come on, run it back! I'm on a roll!"
+			"text": "WANNA DO THE VALENTINES REMIX? FOR MUM?"
 		},
 		{
-			"speed": 0.06,
+			"speed": 0.065,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Fine. But let's switch it up. This one... is for your mother."
+			"text": "Yeah, for Azzy."
 		},
 		{
-			"speed": 0.05,
-			"portrait": "pj",
+			"speed": 0.08,
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "shy",
-			"text": "Aww... pops! Okay, okay! For Mum! Let's do this!"
+			"expression": "downcast",
+			"text": "Aww..."
 		}
 	]
 }

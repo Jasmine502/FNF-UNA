@@ -1,60 +1,123 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.045,
 			"portrait": "jaykakashi",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "PJ! OJ! Welcome to Xerberus Records HQ. Pretty slick, huh?"
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "What in the fucking Kolanekros. Jasmine, you ever heard of knocking before?"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "It certainly sounds big. Lots of echo."
+			"expression": "startled",
+			"text": "Oop- Sorry, Mr. X."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Super cool! Since you're my dad AND my boss... does that mean I get double allowance?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "jaykakashi",
-			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Heh. Don't count on it. This whole business..."
+			"text": "It's okay, my tangerine, I got this."
 		},
 		{
-			"speed": 0.065,
+			"speed": 0.08,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "...It just keep comin'around and around..."
+			"text": "Huh?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "I have, but... knocking's overrated! That was so last discovery era."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Why knock when you can just ZZZZWIP!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "downcast",
+			"text": "It is a bit disorienting..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Ayy! W reference! That's fire! Let's go a round on that beat!"
+			"expression": "embarrassed",
+			"text": "Oh."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Alright, alright. You think you can handle the original?"
+			"text": "Trust me, Camille, it is for me too and I've just been sat at this chair."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well, get your demonic ass up, Pops! We gotta spit spiritual lyrical miracles at each other."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Babe... maybe he's too busy..."
 		},
 		{
 			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You are correct. These BLRY quarterly reports won't review themselves, so there's no time for lyrical miracles."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "UTTER NONSENSE! TAKE YOUR MIC, RIGHT NEOW!"
+		},
+		{
+			"speed": 1,
+			"portrait": "jaykakashi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sigh."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "questioning",
+			"text": "Did you just... say \"sigh\" out loud?"
+		},
+		{
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Let's find out!"
+			"expression": "excited",
+			"text": "HAHA! What a cornball!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jaykakashi",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "For the love of Ego, let's just rap. Please."
 		}
 	]
 }

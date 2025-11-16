@@ -1,60 +1,88 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.04,
-			"portrait": "pj",
+			"speed": 0.065,
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "WOO! Okay, my fingers are cramping! That thing is WAY faster than its walk cycle!"
+			"expression": "downcast",
+			"text": "My ears are ringing."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "oj",
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "wry",
-			"text": "My ears are ringing. Felt like a stampede with a beat more than a song."
-		},
-		{
-			"speed": 0.03,
-			"portrait": "dust_staff",
-			"boxState": "angry",
-			"expression": "panic",
-			"text": "Containment field fluctuating! Bio-signatures are off the charts! Ma'am, you must cease all sonic provocations immediately!"
+			"expression": "embarrassed",
+			"text": "Yeah... I, I think I pulled a vocal cord or two..."
 		},
 		{
 			"speed": 0.08,
 			"portrait": "ryno",
 			"boxState": "normal",
-			"expression": "neutral",
-			"text": "SNORT?"
+			"expression": "charging",
+			"text": "HRRMPH."
 		},
 		{
 			"speed": 0.035,
-			"portrait": "ryno",
+			"portrait": "dust",
 			"boxState": "angry",
-			"expression": "charging",
-			"text": "HRRRRNNNGG!"
-		},
-		{
-			"speed": 0.04,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "See? It got stunned for a second! Now it's entering its rage mode! This is its second phase!"
-		},
-		{
-			"speed": 0.065,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "worried",
-			"text": "PJ, that horn is not a cosmetic item. Please try not to get impaled by the 'second phase'."
+			"expression": "panic",
+			"text": "Subject is still hostile! Repeat, subject is hostile! Awaiting orders, Doctor."
 		},
 		{
 			"speed": 0.045,
 			"portrait": "pj",
 			"boxState": "normal",
+			"expression": "smug",
+			"text": "Hostile? Nah, fam. He's just playing! Goofing around with his creato-"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "oj",
+			"boxState": "angry",
+			"expression": "startled",
+			"text": "JAS!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "embarrassed",
+			"text": "UH... I MEAN, LET''S GO AGAIN!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "oj",
+			"boxState": "angry",
+			"expression": "worried",
+			"text": "WHAT, NO."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "dust",
+			"boxState": "angry",
+			"expression": "panic",
+			"text": "WHY WOULD YOU RE-ENGAGE?!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "pj",
+			"boxState": "angry",
 			"expression": "excited",
-			"text": "Don't worry, OJ! I got this! Locking the fuck in!"
+			"text": "CUZ IM CUH-RAZY!!! PHASE TWO, BABY!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "RAHHHHHH!!!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "ryno",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "ROAAAAAARR!"
 		}
 	]
 }

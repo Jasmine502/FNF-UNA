@@ -1,81 +1,102 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.055,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Whoa... babe, where are we? This place is givin' me the shits."
+			"text": "Erm... this place is lowkey givin' me the shits."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "It feels... quiet. Lonely. Definitely different from the rest of Dusphoros."
+			"expression": "worried",
+			"text": "Not sure I'd put it like that, but you know what, same. Vibe is off."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "awkward",
-			"text": "Oh! Um... visitors? You... you're still here?"
+			"text": "Oh! Um... hi!"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "pj",
-			"boxState": "normal",
+			"boxState": "angry",
 			"expression": "shocked",
-			"text": "Yo! Didn't see ya there! You're practically invisible, that's wild!"
+			"text": "WOAH! Jumpscare warning!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Course we are! I'm PJ, this is OJ! Who're you?"
-		},
-		{
-			"speed": 0.07,
-			"portrait": "littleghost",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "I'm... Ghost. Welcome to Unmbra, I suppose. People visit... but they never seem to remember."
+			"text": "This is my wifey, OJ. I'm PJ, who the hell are you?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "It's nice to meet you, Ghost. It's a very peaceful town."
+			"text": "Be nice, babe!"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Ghost, huh? Fitting! Hey, since we're here... wanna rap battle?!"
+			"text": "Sorry! I was referencing this cartoon."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's okay! I'm... Ghost. Nice to meet you, PJ. Welcome to Unmbra."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "And it's nice to see you again, Camille."
 		},
 		{
 			"speed": 0.07,
-			"portrait": "littleghost",
+			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "A... rap battle? Like... singing?"
+			"expression": "questioning",
+			"text": "Um... what?"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "HOL' UP. HOW YOU KNOW MY GORL?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Yeah! Best way to get to know each other!"
+			"expression": "talk",
+			"text": "D'you know them, pookie?"
 		},
 		{
-			"speed": 0.07,
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "I don't think so... I don't remember their voice, at least."
+		},
+		{
+			"speed": 0.075,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "awkward",
-			"text": "I... I don't usually... Okay. Just for a little while, maybe."
+			"expression": "sad",
+			"text": "Oh... yeah. So, about that..."
 		}
 	]
 }

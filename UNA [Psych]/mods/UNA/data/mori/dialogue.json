@@ -4,71 +4,134 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Yo, for a ghost who gets auto-deleted from everyone's memory, you got some serious pipes!"
+			"expression": "confused",
+			"text": "Holy forking shirtballs. That's a LOT of infodump."
 		},
 		{
-			"speed": 0.05,
-			"portrait": "oj",
+			"speed": 0.045,
+			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "You really do sound wonderful, Ghost. There's so much emotion in your voice."
+			"text": "I'ma need a whole wiki to even begin to process allat!"
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
+			"expression": "sad",
+			"text": "I'm so sorry. I... didn't mean for any of this to happen..."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't be, Ghost! Without you, I never would've met my soulmate."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
 			"expression": "excited",
-			"text": "Oh... really? Thank you. I... I've never had anyone to sing with before."
+			"text": "Type shit!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Also, does that make you, like... my grandparent? If you made mumzy."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "But wait, your sister created my girl. So..."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "I have a headache."
 		},
 		{
 			"speed": 0.06,
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "happy",
-			"text": "This is the most fun I've had... maybe ever."
+			"text": "Hehe, don't worry. It's more of a creator/creation thing, not genetics."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.035,
 			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Dude, we gotta capture this! We could make a whole album! 'The Unforgettable Ghost!' It'd be sick!"
+			"boxState": "angry",
+			"expression": "embarrassed",
+			"text": "PHEW! THAT WOULD'VE BEEN FUCKED UP."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "explaining",
-			"text": "PJ... what good is an 'Unforgettable' album... if everyone forgets the artist?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shy",
-			"text": "Oh... right. Shit. That really, really sucks."
+			"text": "That makes sense. And it would be a bit strange to call you the parent of an entire planet."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
+			"expression": "happy",
+			"text": "Mhm!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "That... that's the kindest thing anyone's ever offered me."
+			"text": "Why don't you tell us about your time here, Ghost?"
 		},
 		{
-			"speed": 0.08,
-			"portrait": "littleghost",
+			"speed": 0.04,
+			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "sad",
-			"text": "Even if it's impossible... it means everything that you wanted to."
+			"expression": "excited",
+			"text": "Yeah! Even if we won't remember any of this, it's always healthy to vent!"
 		},
 		{
-			"speed": 0.1,
+			"speed": 0.02,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "Like in Am-"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "Stop."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ghost, would you be comfortable sharing your experience?"
+		},
+		{
+			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "shy",
-			"text": "So... before you go... can we sing one last song? A memory, just for us?"
+			"expression": "excited",
+			"text": "Hehe, thank you for asking. Sure!"
 		}
 	]
 }

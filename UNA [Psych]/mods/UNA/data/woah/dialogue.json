@@ -4,64 +4,120 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Yooo! BLRY in the house! Long time no see, guys!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "amy",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "PJ! OJ! It's so good to see you both! We've missed you!"
+			"expression": "confused",
+			"text": "Dayum. Never gonna get used to blinking between planets, I swear."
 		},
 		{
 			"speed": 0.06,
-			"portrait": "dustin",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Woah... the whole crew's back together. That's pretty cool."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "You know it! Babe, check it, the man himself! Still rockin' the ol' war bucket, I see!"
-		},
-		{
-			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "questioning",
-			"text": "The... 'war bucket'? I thought we agreed it was a 'tactical pail'."
+			"expression": "talk",
+			"text": "Ditto. Where are we now, babe? Smells like Kolanekros again."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I know, I know. I highkey just wanted to check in with my favourite band!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "P-PJ, OJ? Lovely to see you again, hugs!!!"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, hey, Amy! Likewise, hope everyone's keeping safe here!"
+		},
+		{
+			"speed": 0.04,
 			"portrait": "brooks",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "It's a legendary artifact! A symbol of our struggle! A beacon of... bucket-ness!"
+			"text": "Say it ain't so! Sup, orange juice! And waddup, MC Starlight, dap me up!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "BucketBoy, my brudda! Wus good?"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey. The boss send you here to scold us?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Whatever you say, BucketBoy! Still looks like a bucket to me!"
+			"text": "Cynical as always! But, nah fam. I get enough scolding from him myself!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You get KOL from the X-Man? What..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hehe! They said \"scold,\" Dustin, silly."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "wry",
+			"text": "I see the band's heartthrob is still higher than the Iriella."
+		},
+		{
+			"speed": 0.1,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ahoy."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "When is he not."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "brooks",
 			"boxState": "normal",
-			"expression": "excited",
-			"text": "Alright, alright! Enough about the drip! You still got that fire, PJ? Been way too long since we jammed!"
+			"expression": "talk",
+			"text": "Yup, that's our blue blur for ya!"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.045,
+			"portrait": "brooks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jazzers, what do you say we go bar-for-bar? Been a hot minute!"
+		},
+		{
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "You know I do, BB! Step up, let's see if you can still hang!"
+			"text": "You're so on, Mr. Trumpet. Gimme a beat, BLRY!"
 		}
 	]
 }

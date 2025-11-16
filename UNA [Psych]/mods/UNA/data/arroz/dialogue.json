@@ -1,51 +1,65 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
+			"speed": 0.055,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "tired",
-			"text": "Gah... whew... okay... Dustin, your cosmic waves... kicked my ass..."
+			"expression": "confused",
+			"text": "Okay, I think I'M gonna need to hit up FRM-SU-TKL after that."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "amy",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Are you okay, PJ? You look exhausted! Maybe we should take a break?"
+			"text": "Dustin! He's out cold..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "brooks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, no shit! After all that, haha!"
 		},
 		{
 			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Oh my. What about you, babe? Wanna take a break?"
+		},
+		{
+			"speed": 0.07,
 			"portrait": "bas",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Tired already? Pathetic. My turn."
+			"text": "No breaks. My turn."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Tired?! Psh! Never! Just... catching my breath! Your turn? Bring it, walking puffer jacket!"
+			"expression": "talk",
+			"text": "No breaks needed! Hey, Bas."
 		},
 		{
-			"speed": 0.05,
-			"portrait": "brooks",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Ooooh, PJ, you messed up now! You know what happens when they play this one!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "Wait, wait, not this one! I DON'T WANNA DO THE RI-"
-		},
-		{
-			"speed": 0.01,
+			"speed": 0.08,
 			"portrait": "bas",
 			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmph."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "I DON'T WANNA DO THE RI-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bas",
+			"boxState": "angry",
 			"expression": "talk",
 			"text": "STOP."
 		}

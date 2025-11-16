@@ -1,67 +1,123 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.07,
+			"speed": 0.08,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "happy",
-			"text": "You're still here? And... you still remember my name?"
+			"expression": "sad",
+			"text": "So, yeah..."
 		},
 		{
-			"speed": 0.07,
-			"portrait": "littleghost",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "This has never happened before! They always... forget."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "The frack? A curse? Nah, that ain't got nothin' on us."
-		},
-		{
-			"speed": 0.05,
+			"speed": 0.06,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Forget you? No way! You're cool, Ghost."
+			"text": "Fuck."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.065,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "That must be incredibly lonely. But we're not like the others. It's wonderful to hear the happiness in your voice."
+			"expression": "downcast",
+			"text": "I'm so sorry, Ghost. That's really unfair."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "awkward",
-			"text": "Um... thanks. It's... nice."
+			"expression": "sad",
+			"text": "No, I'd say it was deserved."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "littleghost",
 			"boxState": "normal",
-			"expression": "shy",
-			"text": "Would you... like to sing some more? Before you..."
+			"expression": "sad",
+			"text": "This fate stops me from messing up any more than I already have."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "TO KOLANEKROS WITH THAT B.S!"
 		},
 		{
 			"speed": 0.04,
 			"portrait": "pj",
-			"boxState": "angry",
-			"expression": "excited",
-			"text": "HELL YEAH! LET'S FUCKING GOOOOO!"
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All because you wanted to protect your fam? I woulda done the exact same!"
 		},
 		{
 			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "wry",
-			"text": "PJ, your voice is going to scare the... well, the other ghosts?"
+			"expression": "talk",
+			"text": "Same here, I'd give up more than just my sight to save my PJ."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Awe, pooks. You already saved me!"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You two are perfect for each other. Your dad must be proud."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "cheeky",
+			"text": "He better be!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Small system, huh? Wild that you and my pops were friends!"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "explaining",
+			"text": "He never told us about you... But, I guess that makes sense now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, that sucks mega-hard. I'm guessing The Book is the same one I have, too?"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "littleghost",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Yep. I could tell you more, but you'll forget as soon as you leave. I'm not sure what the point is."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "I'LL REMEMBER!"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go ahead, Ghost. We love speaking with you, either way."
 		}
 	]
 }

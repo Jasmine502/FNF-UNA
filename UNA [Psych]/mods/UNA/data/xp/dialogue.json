@@ -1,74 +1,151 @@
 {
 	"dialogue": [
 		{
+			"speed": 0.07,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Woah."
+		},
+		{
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "cheeky",
-			"text": "Yo, Dustin! You orbiting Iriella right now or just baked off your gourd?"
+			"text": "Aye, aye, Cap! That was the name of the song me and Brooks just performed!"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
-			"expression": "questioning",
-			"text": "He sounds... floaty. Is that a drug thing or a him thing?"
+			"expression": "wry",
+			"text": "Sounds like he's lucid after all."
 		},
 		{
-			"speed": 0.07,
+			"speed": 0.08,
 			"portrait": "bas",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "It's a him thing."
-		},
-		{
-			"speed": 0.1,
-			"portrait": "dustin",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Whoa... Heh... Captain's just... cruising the cosmic waves right now, yeah."
-		},
-		{
-			"speed": 0.1,
-			"portrait": "dustin",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Listen close... the stars are totally singing tonight..."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Oh for real?! Show us what they sound like, man! Lay it down!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "dustin",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Yeah... a'ight. The stars... they're vibin' to this one."
+			"text": "Doubt."
 		},
 		{
 			"speed": 0.07,
 			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "It's like... a whole new level of experience, you know?"
+			"text": "Wha... Who's... who's Lucy?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Teehee! I-I guess not!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "brooks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, fam! Wake up, it's your turn to go up against the Mr. X's kid!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh... oh. Kixxie, you got any Fuel on you?"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "startled",
+			"text": "Oh my."
 		},
 		{
 			"speed": 0.04,
 			"portrait": "pj",
-			"boxState": "angry",
+			"boxState": "normal",
 			"expression": "excited",
-			"text": "LET'S GET IT, CAPTAIN!"
+			"text": "HAHAHAHA, HE'S SO GONE!"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.06,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Um, D-Dustin..."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She's literally hosting an episode of KHAOS! right now. Lock the fuck in, dude."
+		},
+		{
+			"speed": 0.055,
+			"portrait": "bas",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Besides, I can see a vial poking out of your pocket."
+		},
+		{
+			"speed": 0.06,
 			"portrait": "dustin",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "...Yeah, I'm gone, man."
+			"text": "Oh word..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're taking it right now? B-be careful!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "To be honest, he's a syllable away from passing out. Seems like he needs it!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YEAHHHH BABYYYYYYYY! WE JUST- WE JUST- WE JUST LEVELED UP!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "dustin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'M MAKING XP, HUH, YOU'RE MAKING NO P, HUH!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "SLOW DOWN, MY DUDE! I NEED TO BE ABLE TO CATCH UP! AND THAT'S COMING FROM ME!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brooks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's too late, bruv. He's gone Super Dustin now."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "Erm... good luck, babe."
 		}
 	]
 }

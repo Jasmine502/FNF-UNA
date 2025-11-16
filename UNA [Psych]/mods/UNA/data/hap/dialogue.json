@@ -5,77 +5,126 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Woah! Okay, Third Eye travel still gives me the spins... BUT YO!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "Babe, check this place! You seein' how this SICK neon pink light is like, BOUNCING off the... weird sticky walls? Kinda wild!"
-		},
-		{
-			"speed": 1.5,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "..."
+			"text": "Holy stromboli! Third Eye Express still gives me the spins..."
 		},
 		{
 			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're telling me, babe."
+		},
+		{
+			"speed": 0.045,
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Babe? You zoning out on me? It's pretty rad, right? Makes everything look kinda... toxic chic?"
+			"text": "Yeah, sorry... But look!"
 		},
 		{
-			"speed": 0.055,
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "This joint is LIT! Look at those wacky stools, overhead TVs..."
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jas."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "SICK looking lava lamp shit, the-"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "embarrassed",
+			"text": "Oh."
+		},
+		{
+			"speed": 0.05,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "wry",
-			"text": "I can hear the buzzing from the lights. And I can smell... whatever is making the walls sticky. I'm sure it's very pink."
+			"text": "Hahaha!"
 		},
 		{
 			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "angry",
 			"expression": "embarrassed",
-			"text": "O-OH FUCK! RIGHT! THE SEEING THING! SHIT! MY BAD! BRAIN FART! HUGE ONE!"
-		},
-		{
-			"speed": 0.045,
-			"portrait": "pj",
-			"boxState": "angry",
-			"expression": "embarrassed",
-			"text": "I TOTALLY BLANKED! AGAIN! GAH! SO SORRY BABE! I'M SUCH A DUMB BITCH!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shy",
-			"text": "Ah geez, I keep doing that... I'm really trying to remember, honest! Don't hate me!"
+			"text": "FUCK."
 		},
 		{
 			"speed": 0.06,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "It's alright, PJ. Breathe. I know. It's chaotic, but it's you. I wouldn't change it."
+			"text": "No, no, it's okay, silly."
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.035,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "embarrassed",
+			"text": "IT'S NOTTTT!! HOW DARE I. THAT WAS SO INSENSITIVE OF ME, I'M SO SORRY."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "pj",
+			"boxState": "angry",
+			"expression": "embarrassed",
+			"text": "I'M SUCH A DUMB BITCH. I TOTALLY BLANKED AGAIN AAAAGHH."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hehe, you're good. Breathe. You're my dumb bitch."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And I wouldn't change that for any world."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "pj",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Baby... UwU"
+		},
+		{
+			"speed": 0.055,
 			"portrait": "oj",
 			"boxState": "normal",
 			"expression": "wry",
-			"text": "Are you calm now? Let's do what we came for. You can describe the song to me instead."
+			"text": "Okay, okay. We're gonna do some regretful karaoke now, or...?"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Right! Yeah! Singing! I can do that! I'll describe it with my sick flow! Let's fuckin' do it!"
+			"expression": "excited",
+			"text": "Spitting hot trash is my MO! Now, let's FUCKIN' GO!"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "oj",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bars."
 		}
 	]
 }
