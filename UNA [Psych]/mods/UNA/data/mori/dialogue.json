@@ -40,7 +40,7 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "confused",
-			"text": "Also, does that make you, like... my grandparent? If you made mumzy."
+			"text": "Also, does that make you, like... my grand parent? If you made mumzy."
 		},
 		{
 			"speed": 0.055,
@@ -61,7 +61,7 @@
 			"portrait": "littleghost",
 			"boxState": "normal",
 			"expression": "happy",
-			"text": "Hehe, don't worry. It's more of a creator/creation thing, not genetics."
+			"text": "Hehe, don't worry. It's more of a creator and creation thing, not genetics."
 		},
 		{
 			"speed": 0.035,

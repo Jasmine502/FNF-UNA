@@ -2,7 +2,7 @@
 	"dialogue": [
 		{
 			"speed": 0.04,
-			"portrait": "dust",
+			"portrait": "dust_staff",
 			"boxState": "normal",
 			"expression": "panic",
 			"text": "Doctor, we have visual! Subject #015 is on the move in the South Lands and-"
@@ -37,14 +37,14 @@
 		},
 		{
 			"speed": 0.035,
-			"portrait": "dust",
+			"portrait": "dust_staff",
 			"boxState": "angry",
 			"expression": "panic",
 			"text": "Asset #015 is now approaching... two unidentified civilians?! Wait, is that the demon's kid?"
 		},
 		{
 			"speed": 0.03,
-			"portrait": "dust",
+			"portrait": "dust_staff",
 			"boxState": "angry",
 			"expression": "panic",
 			"text": "MA'AM AND OTHER MA'AM, PLEASE BACK AWAY FROM THE UNAMON!"
@@ -93,7 +93,7 @@
 		},
 		{
 			"speed": 0.035,
-			"portrait": "dust",
+			"portrait": "dust_staff",
 			"boxState": "angry",
 			"expression": "panic",
 			"text": "PLEASE DO NOT PLAY CHICKEN WITH THE ASTRAL UNAMON."

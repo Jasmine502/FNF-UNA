@@ -5,63 +5,7 @@
 			"portrait": "pj",
 			"boxState": "angry",
 			"expression": "shocked",
-			"text": "D-Dad?! What's happening?! What did she do to you?!"
-		},
-		{
-			"speed": 0.07,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "worried",
-			"text": "PJ... that feeling... that familiar darkness... It's her."
-		},
-		{
-			"speed": 0.06,
-			"portrait": "xerberus",
-			"boxState": "angry",
-			"expression": "intense",
-			"text": "Starlight... Get... OUT... She's... in my head..."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "id",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Well, well. Look what the little star-child dragged in."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "id",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "And she brought my favorite broken toy along for the ride."
-		},
-		{
-			"speed": 0.055,
-			"portrait": "id",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Tell me, little demon... does the sound of his pain remind you of the day you lost your eyes?"
-		},
-		{
-			"speed": 0.07,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "startled",
-			"text": "N-no... get away from me..."
-		},
-		{
-			"speed": 0.04,
-			"portrait": "pj",
-			"boxState": "angry",
-			"expression": "shocked",
-			"text": "Get away from her, you bitch! Dad, snap out of it!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "id",
-			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "Oh, he'll snap. But not in the way you're hoping. Sing for them, my pet."
+			"text": "this is NOT kawaii-desu ne!!"
 		}
 	]
 }

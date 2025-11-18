@@ -23,7 +23,7 @@
 		},
 		{
 			"speed": 0.06,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "P-PJ, OJ? Lovely to see you again, hugs!!!"
@@ -72,7 +72,7 @@
 		},
 		{
 			"speed": 0.055,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "Hehe! They said \"scold,\" Dustin, silly."

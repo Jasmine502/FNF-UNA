@@ -9,7 +9,7 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "excited",
 			"text": "Don't worry, PJ! My turn will be a real sea breeze! I'm shore you'll love it!"
@@ -30,7 +30,7 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "happy",
 			"text": "Hehe! No need to be so salty! This is gonna be a whale of a time!"
@@ -67,19 +67,12 @@
 			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "Yeah, yeah. But for real, I'm parched! I need some..."
-		},
-		{
-			"speed": 0.045,
-			"portrait": "pj",
-			"boxState": "angry",
 			"expression": "excited",
-			"text": "H2O!"
+			"text": "Yeah, yeah. But for real, I'm parched!"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "excited",
 			"text": "I can help with that! Let's make a splash!"

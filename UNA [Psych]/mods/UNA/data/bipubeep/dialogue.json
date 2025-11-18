@@ -92,7 +92,7 @@
 			"text": "UTTER NONSENSE! TAKE YOUR MIC, RIGHT NEOW!"
 		},
 		{
-			"speed": 1,
+			"speed": 0.1,
 			"portrait": "jaykakashi",
 			"boxState": "normal",
 			"expression": "talk",

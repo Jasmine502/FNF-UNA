@@ -23,7 +23,7 @@
 		},
 		{
 			"speed": 0.035,
-			"portrait": "dust",
+			"portrait": "dust_staff",
 			"boxState": "angry",
 			"expression": "panic",
 			"text": "Subject is still hostile! Repeat, subject is hostile! Awaiting orders, Doctor."
@@ -58,7 +58,7 @@
 		},
 		{
 			"speed": 0.03,
-			"portrait": "dust",
+			"portrait": "dust_staff",
 			"boxState": "angry",
 			"expression": "panic",
 			"text": "WHY WOULD YOU RE-ENGAGE?!"

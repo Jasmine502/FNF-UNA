@@ -5,56 +5,7 @@
 			"portrait": "pj",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Seriously, B. Kyu, this ain't it. You're glitching harder than my dad trying to use Etheforma. Maybe take five?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "downcast",
-			"text": "Love... please. You created me from kindness. Where did that go? What did your mother do to you?"
-		},
-		{
-			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "KINDNESS?! That pathetic weakness?! I STARVED because of it! She drained me dry, and then... then SOMEONE'S 'kindness' broke everything!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "Someone? What are you on about now? You're not making any sense."
-		},
-		{
-			"speed": 0.03,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "THEM! The one who thought a selfish little WISH could fix everything! Their 'help' is the reason I'm like this! Why I'm EMPTY!"
-		},
-		{
-			"speed": 0.07,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "startled",
-			"text": "A... wish? Love, I don't understand..."
-		},
-		{
-			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "ENOUGH! I don't need memories! I just need MORE! MORE NOISE! MORE ADORATION! LET'S GET A LITTLE CUH-RAZY!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "angry",
-			"text": "Okay, yeah, she's officially lost it. Babe, get behind me!"
+			"text": "holy yap"
 		}
 	]
 }

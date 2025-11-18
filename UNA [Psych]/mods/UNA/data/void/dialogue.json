@@ -55,13 +55,6 @@
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "Don't wander too far, Ghost. Stay where I can see you."
-		},
-		{
-			"speed": 0.09,
-			"portrait": "littleghost",
-			"boxState": "normal",
-			"expression": "sad",
-			"text": "(Wrong... fixed... I'm the problem...)"
 		}
 	]
 }

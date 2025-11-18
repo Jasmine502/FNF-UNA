@@ -1,67 +1,11 @@
 {
-	"dialogdialogue": [
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "Whoa, B. Kyu. Did your glam squad quit on you? You look... busted."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "worried",
-			"text": "PJ... that's Love. My creator. But her energy... it's all wrong. It's... hungry."
-		},
-		{
-			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "BUSTED?! HAHAHA! This isn't busted, sweetie. This is what PERFECTION looks like when it finally stops pretending!"
-		},
-		{
-			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "I am ALWAYS hotter than you!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "downcast",
-			"text": "Hotter...? Love, you feel... so cold. What happened to you?"
-		},
-		{
-			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "SILENCE! Don't you DARE! You're nothing but a pathetic little memory I coughed up when I was feeling sentimental! A MISTAKE!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "angry",
-			"expression": "shocked",
-			"text": "Yo, back the fuck off! You don't get to talk to my girlfriend like that!"
-		},
+	"dialogue": [
 		{
 			"speed": 0.05,
 			"portrait": "bkyu",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Girlfriend? How cute. You think your little D-list romance can compete with the adoration of MILLIONS?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bkyu",
-			"boxState": "normal",
-			"expression": "cheeky",
-			"text": "I'll show you what real star power looks like!"
+			"text": "don't hate me cuz im fine shyt"
 		}
 	]
 }

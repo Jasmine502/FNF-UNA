@@ -37,7 +37,7 @@
 		},
 		{
 			"speed": 0.045,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "Teehee! I-I guess not!"
@@ -47,7 +47,7 @@
 			"portrait": "brooks",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Yo, fam! Wake up, it's your turn to go up against the Mr. X's kid!"
+			"text": "Yo, fam! Wake up, it's your turn to go up against Mr. X's kid!"
 		},
 		{
 			"speed": 0.07,
@@ -72,7 +72,7 @@
 		},
 		{
 			"speed": 0.06,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "Um, D-Dustin..."
@@ -100,7 +100,7 @@
 		},
 		{
 			"speed": 0.04,
-			"portrait": "amy",
+			"portrait": "amatheia",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "You're taking it right now? B-be careful!"

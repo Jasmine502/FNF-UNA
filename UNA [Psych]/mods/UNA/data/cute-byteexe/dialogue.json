@@ -2,59 +2,10 @@
 	"dialogue": [
 		{
 			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "ERROR: Cuteness levels... dropping. MUST... RECALIBRATE! B-B-BE... C-C-CUTE!"
-		},
-		{
-			"speed": 0.05,
 			"portrait": "pj",
 			"boxState": "normal",
-			"expression": "confused",
-			"text": "Yo, you're buffering hard right now. 'Cute' ain't exactly the word that's comin' to mind."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "explaining",
-			"text": "Her voice is... cracking. Like a corrupted audio file. The 'cute' is just the filename."
-		},
-		{
-			"speed": 0.04,
-			"portrait": "bkyu",
-			"boxState": "angry",
 			"expression": "talk",
-			"text": "CORRUPTED?! I AM FLAWLESS! THE PERFECT PROGRAM! YOU are the glitch! The useless bit of code my weak self wrote!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bkyu",
-			"boxState": "angry",
-			"expression": "talk",
-			"text": "UGH! DROWN OUT THE NOISE! SING, DAMN YOU!"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "smug",
-			"text": "Aight, aight, don't bluescreen on us. Sheesh."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "oj",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Just... follow her lead for now, babe."
-		},
-		{
-			"speed": 0.05,
-			"portrait": "pj",
-			"boxState": "normal",
-			"expression": "shy",
-			"text": "Got it. Let's remove this virus."
+			"text": "type shit"
 		}
 	]
 }
